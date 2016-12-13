@@ -8,33 +8,18 @@
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Spinnaker|Roboto:300,400">
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>site.css?v=">
+    <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>fixed.css">
 
     <script id="duel"
             src="//img4.wsimg.com/starfield/duel/v2.5.8/duel.js?appid=O3BkA5J1#TzNCa0E1SjF2Mi41Ljdwcm9k"></script>
-    <script> define('jquery', ['jq!starfield/jquery.mod'], function (m) {
-            return m;
-        });
-        define('appconfig', [], {documentDownloadBaseUrl: 'http://nebula.wsimg.com'}); </script>
-    <link rel="shortcut icon"
-          href="//nebula.wsimg.com/077409169f11b09e9eea521a21e45418?AccessKeyId=96E2763ED3A72DC42EBA&disposition=0&alloworigin=1">
-    <meta http-equiv="Content-Location" content="home.html">
-    <meta name="generator" content="Starfield Technologies; Go Daddy Website Builder 7.0.5350">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Home">
-    <meta property="og:site_name" content="FeelMakers">
-    <meta property="og:url" content="http://feelmakers.mx/home.html">
-    <meta property="og:image"
-          content="//nebula.wsimg.com/7882ba1126505966873f27697def6a97?AccessKeyId=96E2763ED3A72DC42EBA&disposition=0&alloworigin=1">
-    <meta property="og:locale" content="es_MX">
+
+    <link rel="shortcut icon" href="//nebula.wsimg.com/077409169f11b09e9eea521a21e45418?AccessKeyId=96E2763ED3A72DC42EBA&disposition=0&alloworigin=1">
 </head>
 <body>
-<div class="wsb-canvas body"
-     style="background-color: #000000; background-image: url(//nebula.wsimg.com/e7c46d42f1116f401b9ed6ec51bc48f1?AccessKeyId=96E2763ED3A72DC42EBA&alloworigin=1); background-position-x: center; background-position-y: center; background-position: center center; background-repeat: repeat; position: fixed; top: 0; bottom: 0; left: 0; right: 0; width: 100%; height: 100%; overflow: hidden;">
-    <div class="wsb-canvas-page-container"
-         style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; width: 100%; height: 100%; overflow: auto;">
-        <div id="wsb-canvas-template-page" class="wsb-canvas-page page"
-             style="height: 2397px; margin: auto; width: 1200px; background-color: #e5e5e5; position: relative; margin-top: 0px">
-            <div id="wsb-canvas-template-container" style="position: absolute;">
+<div class="wsb-canvas body">
+    <div class="wsb-canvas-page-container">
+        <div id="wsb-canvas-template-page" class="wsb-canvas-page page">
+            <div id="wsb-canvas-template-container">
                 <div id="wsb-element-00000000-0000-0000-0000-000588934901" class="wsb-element-image"
                      data-type="element">
                     <div class="wsb-image-inner ">
@@ -337,54 +322,6 @@
                         <div id="formMsgBox-desktop-00000000-0000-0000-0000-000705083567" class="form-message"
                              style="display: none;"> &#161;Muchas gracias por contactarnos! En breve nos comunicamos
                         </div>
-                        <script type="text/javascript"> require(['designer/app/builder/ui/canvas/elements/customform/customForm.published'], function (customForm) {
-                                customForm.initializeSubmitButton({
-                                    "groupId": "21-desktop",
-                                    "groupIdInt": 21,
-                                    "elementId": "00000000-0000-0000-0000-000705083567",
-                                    "domainName": "feelmakers.mx",
-                                    "resellerId": 1,
-                                    "subject": "feelmakers.mx Home: Form Submission",
-                                    "emailHashList": "contacto@feelmakers.mx",
-                                    "showMessage": true,
-                                    "gemSubmit": false,
-                                    "postRedirectUrl": null,
-                                    "renderMode": "desktop",
-                                    "isPreview": false,
-                                    "mailerUrl": "https://sitesupport-v7.websitetonight.com/api/CustomFormMailer/Submit",
-                                    "labelOrientation": "0",
-                                    "labelCssClass": "form-label-above",
-                                    "fieldCssClass": "form-field-above",
-                                    "messageBoxId": "formMsgBox-desktop-00000000-0000-0000-0000-000705083567",
-                                    "fieldFormatByType": {
-                                        "input": "Texto {num}:",
-                                        "radio": "Opci\u00f3n m\u00faltiple {num}:",
-                                        "checkbox": "Casilla de verificaci\u00f3n {num}:",
-                                        "dropdown": "Desplegable {num}:",
-                                        "file": "Archivo enviado {num}:",
-                                        "date": "Fecha/Hora {num}:",
-                                        "address": "Direcci\u00f3n {num}:",
-                                        "phone": "Tel\u00e9fono {num}:",
-                                        "email": "Direcci\u00f3n de correo electr\u00f3nico {num}:"
-                                    },
-                                    "requiredValidationMessage": "Este es un campo obligatorio.",
-                                    "lengthValidationMessage": "El campo tiene un l\u00edmite de 100 caracteres.",
-                                    "longLengthValidationMessage": "El campo tiene un l\u00edmite de 4000 caracteres.",
-                                    "emailValidationMessage": "Direcci\u00f3n de correo electr\u00f3nico no v\u00e1lida",
-                                    "dateValidationMessage": "Valor de fecha/tiempo no v\u00e1lido.",
-                                    "errorTitle": "Int\u00e9ntalo de nuevo",
-                                    "sendErrorMessage": "Ha ocurrido un error desconocido Por favor, int\u00e9ntalo de nuevo.",
-                                    "tooManyRequestsErrorTitle": "Epa, no tan aprisa",
-                                    "tooManyRequestsErrorMessage": "Estamos trabajando sin descanso para procesar tu solicitud. Por favor espera unos segundos e int\u00e9ntalo de nuevo.",
-                                    "websiteId": "00000000-0000-0000-0000-000507442274",
-                                    "orionId": "87c59ca7-96a1-11e4-a7a6-14feb5d9e2d6",
-                                    "gemSubmitUrl": "//apps.api.godaddy.com/v1/apps/madmimi/v1/subscriber",
-                                    "googleMapsClientId": "gme-godaddycom",
-                                    "googleMapsPublishedChannel": "v7-published",
-                                    "mapboxApiKey": "pk.eyJ1IjoiZ29kYWRkeSIsImEiOiJjaWc5b20wcjcwczAydGFsdGxvamdvYnV0In0.JK9HuO6nAzc8BnMv6W7NBQ",
-                                    "isMapboxApiEnabled": false
-                                });
-                            }); </script>
                     </div>
                 </div>
                 <div id="wsb-element-00000000-0000-0000-0000-000705083566" class="wsb-element-customform"
@@ -490,16 +427,8 @@
                 en móvil</a></div>
     </div>
 </div>
-<script type="text/javascript"> require(['jquery', 'common/cookiemanager/cookiemanager', 'designer/iebackground/iebackground'], function ($, cookieManager, bg) {
-        if (cookieManager.getCookie("WSB.ForceDesktop")) {
-            $('.view-as-mobile', '.wsb-canvas-page-container').show().find('a').bind('click', function () {
-                cookieManager.eraseCookie("WSB.ForceDesktop");
-                window.location.reload(true);
-            });
-        }
-        bg.fixBackground();
-    }); </script>
-<script> var addthis_config = {"ui_language": "es", "pubid": "ra-5162fff83017c0e0"}; </script>
+
+
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5162fff83017c0e0"></script>
 <script> if (addthis && addthis.layers) {
         addthis.layers({'share': {'mobile': false}});
