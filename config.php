@@ -14,7 +14,7 @@ define('DOMAIN', 'http://' . $_SERVER['HTTP_HOST'] . '/' . PROJECT);
 define('CSS', DOMAIN . 'includes/public/css/');
 define('PDF', DOMAIN . 'includes/public/pdf/');
 define('JS', DOMAIN . 'includes/public/js/');
-define('IMAGES', DOMAIN . 'includes/public/img/');
+define('IMAGES', DOMAIN . 'includes/public/images/');
 define('FONTS', DOMAIN . 'includes/public/fonts/');
 define('CLASSES', __ROOT__ . '/core/classes/');
 define('__CONTROLLER__', __ROOT__ . '/app/controller/');

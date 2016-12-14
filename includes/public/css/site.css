@@ -214,7 +214,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     bottom: 1px;
     background-color: #474747;
     border: 1px solid #474747;
-    background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v2/images/wsb-slideshow-nav-arrows-sprt.png);
+    background-image: url("../images/arrows.png");
     background-repeat: no-repeat
 }
 
@@ -274,7 +274,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     height: 42px;
     position: absolute;
     cursor: pointer;
-    background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v2/images/wsb-slideshow-arrows.png)
+    background-image: url("../images/slide_arrows.png")
 }
 
 .wsb-media-gallery-arrows-left-arrow {
@@ -293,7 +293,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     min-width: 40px;
     position: absolute;
     cursor: pointer;
-    background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v2/images/wsb-slideshow-left-arrow.png);
+    background-image: url("../images/left_arrow.png");
     background-position: center center;
     background-repeat: no-repeat
 }
@@ -304,7 +304,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     min-width: 40px;
     position: absolute;
     cursor: pointer;
-    background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v2/images/wsb-slideshow-right-arrow.png);
+    background-image: url("../images/right_arrow.png");
     background-position: center center;
     background-repeat: no-repeat
 }
@@ -1547,7 +1547,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     bottom: 1px;
     background-color: #474747;
     border: 1px solid #474747;
-    background-image: url(//img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v1/images/wsb-slideshow-nav-arrows-sprt.png);
+    background-image: url("../images/arrows.png");
     background-repeat: no-repeat
 }
 
@@ -1607,7 +1607,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     height: 42px;
     position: absolute;
     cursor: pointer;
-    background-image: url(//img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v1/images/wsb-slideshow-arrows.png)
+    background-image: url("../images/slide_arrows.png")
 }
 
 .wsb-media-gallery-arrows-left-arrow {
@@ -1626,7 +1626,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     min-width: 40px;
     position: absolute;
     cursor: pointer;
-    background-image: url(//img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v1/images/wsb-slideshow-left-arrow.png);
+    background-image: url("../images/left_arrow.png");
     background-position: center center;
     background-repeat: no-repeat
 }
@@ -1637,7 +1637,7 @@ a .wsb-media-gallery-caption, a:link .wsb-media-gallery-caption, a:visited .wsb-
     min-width: 40px;
     position: absolute;
     cursor: pointer;
-    background-image: url(//img4.wsimg.com/wst/v7/WSB7_J_20161129_1252_WSB-16683_9697/v1/images/wsb-slideshow-right-arrow.png);
+    background-image: url("../images/right_arrow.png");
     background-position: center center;
     background-repeat: no-repeat
 }
@@ -1861,15 +1861,15 @@ h6 {
 }
 
 .shape_image_shade_50 {
-    background: transparent url(//nebula.wsimg.com/611e8a963102c8e34305a8a108a9c9a5?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1) repeat
+    background: transparent url("../images/dark.png") repeat
 }
 
 .shape_image_shade_30 {
-    background: transparent url(//nebula.wsimg.com/c6e225b489f335fba729d57990245f65?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1) repeat
+    background: transparent url("../images/dark.png") repeat
 }
 
 .shape_image_shade_20 {
-    background: transparent url(//nebula.wsimg.com/dfc208afef02737810865ca1b1f58b59?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1) repeat
+    background: transparent url("../images/gray.png") repeat
 }
 
 .img_main_20, .img_main_30, .img_main {
@@ -1884,15 +1884,15 @@ h6 {
     top: 0;
     left: 0;
     position: absolute;
-    background: transparent url(//nebula.wsimg.com/611e8a963102c8e34305a8a108a9c9a5?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1) repeat
+    background: transparent url("../images/dark.png") repeat
 }
 
 .img_main_20:after {
-    background: transparent url(//nebula.wsimg.com/dfc208afef02737810865ca1b1f58b59?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1) repeat
+    background: transparent url("../images/gray.png") repeat
 }
 
 .img_main_30:after {
-    background: transparent url(//nebula.wsimg.com/c6e225b489f335fba729d57990245f65?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1) repeat
+    background: transparent url("../images/gray.png") repeat
 }
 
 .button_theme {
@@ -1914,7 +1914,7 @@ h6 {
 
 .button_backtotop {
     border: 0;
-    background: transparent url(//nebula.wsimg.com/055d60c18f3be2840b9463507ce50b34?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1) top center no-repeat;
+    background: transparent url("../images/arrow.png") top center no-repeat;
     color: #CBBA3C;
     font-size: 12px;
     line-height: 1;

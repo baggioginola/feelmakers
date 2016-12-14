@@ -9,11 +9,8 @@
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>site.css?v=">
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>fixed.css">
-
-    <script id="duel"
-            src="//img4.wsimg.com/starfield/duel/v2.5.8/duel.js?appid=O3BkA5J1#TzNCa0E1SjF2Mi41Ljdwcm9k"></script>
-
-    <link rel="shortcut icon" href="//nebula.wsimg.com/077409169f11b09e9eea521a21e45418?AccessKeyId=96E2763ED3A72DC42EBA&disposition=0&alloworigin=1">
+    <link rel="shortcut icon"
+          href="<?php echo IMAGES; ?>feelmakers_icon.png">
 </head>
 <body>
 <div class="wsb-canvas body">
@@ -24,7 +21,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><a href="fotograf-a.html" rel=""><img
-                                        src="//nebula.wsimg.com/472e40761951af20f009d20a51c0142e?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                        src="<?php echo IMAGES; ?>boda.png"
                                         style="vertical-align:middle;width:401px;height:267px;"></a></div>
                     </div>
                 </div>
@@ -50,8 +47,7 @@
                     </div>
                 </div>
                 <div id="wsb-element-00000000-0000-0000-0000-000586330828" class="wsb-element-line" data-type="element">
-                    <div class="wsb-line-element"
-                         style="width: 398px; height: 21px; width: 398px;border-top: 4px solid #cccccc;opacity: 1;filter: alpha(opacity=1);"></div>
+                    <div class="wsb-line-element"></div>
                 </div>
                 <div id="wsb-element-00000000-0000-0000-0000-000586330833" class="wsb-element-text" data-type="element">
                     <div class="txt ">
@@ -84,7 +80,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><img
-                                    src="//nebula.wsimg.com/a60032ea22f2afba060a47bde98b13eb?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                    src="<?php echo IMAGES; ?>mywed.png"
                                     style="vertical-align:middle;width:155px;height:63px;"></div>
                     </div>
                 </div>
@@ -92,7 +88,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><a href="https://www.facebook.com/FeelMakers.mx" target="_blank" rel=""><img
-                                        src="//nebula.wsimg.com/bad6c510273583793cdb03982a726b8f?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                        src="<?php echo IMAGES; ?>facebook_yellow.png"
                                         style="vertical-align:middle;width:49px;height:50px;"></a></div>
                     </div>
                 </div>
@@ -100,7 +96,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><a href="https://twitter.com/FeelMakersMX" target="_blank" rel=""><img
-                                        src="//nebula.wsimg.com/396de009d8f3149782fbf62fa23ba347?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                        src="<?php echo IMAGES; ?>twitter_yellow.png"
                                         style="vertical-align:middle;width:47px;height:48px;"></a></div>
                     </div>
                 </div>
@@ -108,7 +104,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><a href="cinematograf-a.html" rel=""><img
-                                        src="//nebula.wsimg.com/d4ba8e1736387623fdc74ddec35fd218?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                        src="<?php echo IMAGES; ?>cinematografia.jpg"
                                         style="vertical-align:middle;width:401px;height:267px;"></a></div>
                     </div>
                 </div>
@@ -119,7 +115,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img_main"><img
-                                    src="//nebula.wsimg.com/d73e2d83aedb4f37f6aa4b387f12fabc?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                    src="<?php echo IMAGES; ?>banner.png"
                                     style="vertical-align:middle;width:1197px;height:742px;"></div>
                     </div>
                 </div>
@@ -127,7 +123,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><img
-                                    src="//nebula.wsimg.com/59a89074b636e68c6b790c8b133d72cd?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                    src="<?php echo IMAGES; ?>ziwa.png"
                                     style="vertical-align:middle;width:186px;height:186px;"></div>
                     </div>
                 </div>
@@ -135,7 +131,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><img
-                                    src="//nebula.wsimg.com/12cc8a23017a99e7136e2b733e8cd1c2?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                    src="<?php echo IMAGES; ?>bodas.jpg"
                                     style="vertical-align:middle;width:107px;height:106px;"></div>
                     </div>
                 </div>
@@ -143,7 +139,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><a href="home.html" rel=""><img
-                                        src="//nebula.wsimg.com/1c7dc1ae96f31bc2997a4535ac2dbaaf?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                        src="<?php echo IMAGES; ?>logo.png"
                                         style="vertical-align:middle;width:369px;height:93px;"></a></div>
                     </div>
                 </div>
@@ -165,10 +161,7 @@
                     <div style="width: 600px; height: 40px;"
                          class="wsb-nav nav_theme nav-text-center nav-horizontal nav-btn-stretch wsb-navigation-rendered-top-level-container"
                          id="wsb-nav-00000000-0000-0000-0000-000650271092">
-                        <style> #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul > li:hover, #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul > li:hover > a, #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul > li.active:hover, #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul > li.active > a:hover, #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul > li.active .nav-subnav li:hover, #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul > li.active .nav-subnav li:hover > a {
-                                background-color: !important;
-                                color: !important;
-                            } </style>
+
                         <ul class="wsb-navigation-rendered-top-level-menu ">
                             <li style="width: 25%" class="active"><a href="home.html" target="" data-title="Home"
                                                                      data-pageid="00000000-0000-0000-0000-000471445502"
@@ -191,7 +184,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><a href="acera-de-feelmakers.html" rel=""><img
-                                        src="//nebula.wsimg.com/fc3bda671f7be2947e277d782b7bf614?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                        src="<?php echo IMAGES; ?>acerca.jpg"
                                         style="vertical-align:middle;width:400px;height:267px;"></a></div>
                     </div>
                 </div>
@@ -203,7 +196,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><img
-                                    src="//nebula.wsimg.com/59b5a2beae3f659b824a655db7d87c0d?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                    src="<?php echo IMAGES; ?>paypal.png"
                                     style="vertical-align:middle;width:154px;height:41px;"></div>
                     </div>
                 </div>
@@ -243,7 +236,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><img
-                                    src="//nebula.wsimg.com/7882ba1126505966873f27697def6a97?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                    src="<?php echo IMAGES; ?>boda_horizonte.jpg"
                                     style="vertical-align:middle;width:569px;height:351px;"></div>
                     </div>
                 </div>
@@ -266,51 +259,10 @@
                                  height="100%" scrolling="no"></div>
                         </div>
                     </div>
-                    <script type="text/javascript"> if ('True' === 'True' && 'False' === 'True') {
-                            require(['common/geo/mapbox'], function (mapbox) {
-                                var mapboxDiv = document.getElementById('publish-map-00000000-0000-0000-0000-000705083573');
-                                var key = 'pk.eyJ1IjoiZ29kYWRkeSIsImEiOiJjaWc5b20wcjcwczAydGFsdGxvamdvYnV0In0.JK9HuO6nAzc8BnMv6W7NBQ';
-                                mapbox.generateMap(mapboxDiv, 'Calle 9 Poniente 712-A, Centro, Cholula de Rivadabia, San Pedro Cholula, Puebla, M&amp;#233;xico', {zoom: 16}, key, 'publish');
-                            });
-                        } else {
-                            require(['common/geo/mapGenerator'], function (mapGenerator) {
-                                var gmapDiv = document.getElementById('publish-map-00000000-0000-0000-0000-000705083573');
-                                var addressSelector = '[data-formType="address"]';
-                                var addressInputs = $(addressSelector);
-                                var clientId = 'gme-godaddycom';
-                                var channel = 'v7-published';
-                                var publishDate = new Date('2015-03-20T18:45:56.8930000');
-                                var grandfatherDate = new Date('2016-05-22T00:00:00.0000000');
-                                if (publishDate < grandfatherDate && addressInputs.length == 0) {
-                                    clientId = null;
-                                    channel = null;
-                                }
-                                if ('True' === 'True') {
-                                    mapGenerator.runPublishMode(clientId, channel);
-                                } else {
-                                    mapGenerator.runEditorMode();
-                                }
-                                mapGenerator.drawMap(gmapDiv, 'Calle 9 Poniente 712-A, Centro, Cholula de Rivadabia, San Pedro Cholula, Puebla, M&amp;#233;xico', {zoom: 16});
-                            });
-                        } </script>
                 </div>
                 <div id="wsb-element-00000000-0000-0000-0000-000705083570" class="wsb-element-facebook"
                      data-type="element">
                     <div id="fb-container-00000000-0000-0000-0000-000705083570" class="wsb-social-facebook "></div>
-                    <script> require(["jquery", "designer/util/facebookSDKHelper"], function ($, fbSDK) {
-                            fbSDK.setLocale("es", "MX");
-                            fbSDK.likeBoxGenerator($("#fb-container-00000000-0000-0000-0000-000705083570"), {
-                                "class": "fb-page",
-                                "data-href": "https://www.facebook.com/FeelMakers.mx",
-                                "data-width": "350",
-                                "data-height": "397",
-                                "data-show-facepile": "false",
-                                "data-show-posts": "true",
-                                "data-small-header": "false",
-                                "data-adapt-container-width": "true",
-                                "data-hide-cover": "false"
-                            });
-                        }); </script>
                 </div>
                 <div id="wsb-element-00000000-0000-0000-0000-000705083567" class="wsb-element-customform"
                      data-type="element">
@@ -398,7 +350,7 @@
                      data-type="element">
                     <div class="wsb-image-inner ">
                         <div class="img"><a href="https://vimeo.com/feelmakers" target="_blank" rel=""><img
-                                        src="//nebula.wsimg.com/3ddb7dc3408a6ce28bc31c4d7b76c75a?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                                        src="<?php echo IMAGES; ?>vimeo.png"
                                         style="vertical-align:middle;width:49px;height:49px;"></a></div>
                     </div>
                 </div>
@@ -427,11 +379,5 @@
                 en móvil</a></div>
     </div>
 </div>
-
-
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5162fff83017c0e0"></script>
-<script> if (addthis && addthis.layers) {
-        addthis.layers({'share': {'mobile': false}});
-    } </script>
 </body>
 </html>
