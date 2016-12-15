@@ -12,4 +12,16 @@ $app->get('/', function() use ($app) {
     $app->render('index.php');
 });
 
+$app->get('/cinematografia', function() use($app) {
+    $app->render('cinematografia.php');
+});
+
+$app->get('/fotografia', function() use($app) {
+    $app->render('fotografia.php');
+});
+
+$app->get('/acerca', function() use($app) {
+   $app->render('acerca.php');
+});
+
 $app->run();
