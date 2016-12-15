@@ -53,13 +53,22 @@
             <div>
                 <div class="map">
                     <div id="publish-map-00000000-0000-0000-0000-000705083068" style="width: 100%; height: 100%"
-                         height="100%" scrolling="no"></div>
+                         height="100%" scrolling="no">
+                        <iframe frameborder="0" height="320" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.056648645123!2d-98.3168647844967!3d19.06124678709631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sFeelMakers+Wedding+Cinematography!5e0!3m2!1sen!2sus!4v1481823181468" style="border:0" width="100%"></iframe>
+                    </div>
                 </div>
             </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000705083066" class="wsb-element-facebook"
              data-type="element">
-            <div id="fb-container-00000000-0000-0000-0000-000705083066" class="wsb-social-facebook "></div>
+            <div id="fb-container-00000000-0000-0000-0000-000705083570" class="wsb-social-facebook ">
+                <div class="fb-page" data-href="https://www.facebook.com/FeelMakers.mx" data-tabs="timeline" data-width="350"
+                     data-height="397" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+                     data-show-facepile="false">
+                    <blockquote cite="https://www.facebook.com/FeelMakers.mx" class="fb-xfbml-parse-ignore"><a
+                                href="https://www.facebook.com/FeelMakers.mx">Facebook</a></blockquote>
+                </div>
+            </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000705083064" class="wsb-element-customform"
              data-type="element">

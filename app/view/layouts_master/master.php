@@ -9,10 +9,21 @@
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>site.css">
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>fixed.css">
+    <script type="text/javascript" src="<?php echo JS; ?>jquery.min.js"></script>
     <link rel="shortcut icon"
           href="<?php echo IMAGES; ?>feelmakers_icon.png">
 </head>
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
 <div class="wsb-canvas body">
     <div class="wsb-canvas-page-container">
         <?php echo $yield; ?>
