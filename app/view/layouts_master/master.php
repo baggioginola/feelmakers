@@ -31,4 +31,5 @@
     </div>
 </div>
 </body>
+<script type="text/javascript" src="<?php echo JS; ?>custom/contact.js"></script>
 </html>
