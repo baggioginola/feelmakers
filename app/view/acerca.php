@@ -5,7 +5,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                            src="//nebula.wsimg.com/a60032ea22f2afba060a47bde98b13eb?AccessKeyId=96E2763ED3A72DC42EBA&amp;disposition=0&amp;alloworigin=1"
+                            src="<?php echo IMAGES; ?>mywed.png"
                             style="vertical-align:middle;width:155px;height:63px;"></div>
             </div>
         </div>
@@ -163,7 +163,7 @@
             <div class="txt ">
                 <div>
                     <div style="text-align: center;"><span class="editor_about">FeelMakers Wedding Cinematography es una marca de VMedia Comunicación, con una trayectoria de más de 11 años en la comunicación y&nbsp;producción audiovisual.</span><span
-                                class="editor_about"></span></div>
+                                class="editor_about"></span></div>im
                 </div>
             </div>
         </div>
