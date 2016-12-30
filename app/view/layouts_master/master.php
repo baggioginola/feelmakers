@@ -9,7 +9,14 @@
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>site.css">
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>fixed.css">
-    <script type="text/javascript" src="<?php echo JS; ?>jquery.min.js"></script>
+
+    <link media="screen" href="<?php echo JS; ?>jqueryui/jquery-ui-1.8.16.custom.css" rel="stylesheet"/>
+
+    <script type="text/javascript" src="<?php echo JS; ?>jquery/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="<?php echo JS; ?>jqueryui/jquery-ui-1.8.16.custom.min.js"></script>
+    <script type="text/javascript" src="<?php echo JS; ?>jquery.hoverIntent.minified.js"></script>
+
+
     <link rel="shortcut icon"
           href="<?php echo IMAGES; ?>feelmakers_icon.png">
 </head>

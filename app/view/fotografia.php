@@ -1,3 +1,45 @@
+<script type="text/javascript" src="<?php echo JS; ?>camera.js"></script>
+
+<link  media="screen" href="<?php echo CSS; ?>camera.css" rel="stylesheet"  />
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        $('#desktop-00000000-0000-0000-0000-000587763474').camera({
+            height		: '590px',
+            thumbnails	: false,
+            barPosition	: 'left',
+            time		: 3500,
+            transPeriod	: 1000
+        });
+
+        $('#desktop-00000000-0000-0000-0000-000588699845').camera({
+            height		: '299px',
+            thumbnails	: false,
+            barPosition	: 'left',
+            time		: 3500,
+            transPeriod	: 1000
+        });
+
+        $('#desktop-00000000-0000-0000-0000-000588963151').camera({
+            height		: '299px',
+            thumbnails	: false,
+            barPosition	: 'left',
+            time		: 3500,
+            transPeriod	: 1000
+        });
+
+        $('#desktop-00000000-0000-0000-0000-000588967541').camera({
+            height		: '299px',
+            thumbnails	: false,
+            barPosition	: 'left',
+            time		: 3500,
+            transPeriod	: 1000
+        });
+    });
+
+</script>
+
 <div id="wsb-canvas-template-page" class="wsb-canvas-page page"
      style="height: 3096px;">
     <div id="wsb-canvas-template-container" style="position: absolute;">
@@ -27,7 +69,11 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000588967541" class="wsb-media-gallery">
-
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special/5.jpg" ></div>
                 </div>
             </div>
 
@@ -38,7 +84,11 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000588963151" class="wsb-media-gallery">
-
+                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/5.jpg" ></div>
                 </div>
             </div>
 
@@ -134,7 +184,11 @@
              data-type="element">
             <div class="false customStyle ">
                 <div id="desktop-00000000-0000-0000-0000-000588699845" class="wsb-media-gallery">
-                    <ul class="wsb-media-gallery-slider"></ul>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/session/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/session/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/session/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/session/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/session/5.jpg" ></div>
                 </div>
             </div>
 
@@ -144,7 +198,16 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000587763474" class="wsb-media-gallery">
-                    <ul class="wsb-media-gallery-slider"></ul>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/10.jpg" ></div>
                 </div>
             </div>
 
