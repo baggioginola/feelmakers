@@ -106,35 +106,6 @@
                                 style="vertical-align:middle;width:369px;height:93px;"></a></div>
             </div>
         </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000705082577" class="wsb-element-customform"
-             data-type="element">
-            <div class="form customform form-row allow-select"
-                 data-aid="elm-container-00000000-0000-0000-0000-000705082577">
-                <div><input type="button" value="Enviar" data-groupid="19-desktop"
-                            data-aid="submit-00000000-0000-0000-0000-000705082577-desktop" class="form-submit"
-                            data-content=""></div>
-                <div id="formMsgBox-desktop-00000000-0000-0000-0000-000705082577" class="form-message"
-                     style="display: none;"> &#161;Muchas gracias por contactarnos! En breve nos comunicamos
-                </div>
-
-            </div>
-        </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000705082576" class="wsb-element-customform"
-             data-type="element">
-            <div class="form customform form-row allow-select"
-                 data-aid="elm-container-00000000-0000-0000-0000-000705082576">
-                <div data-label-container-groupid="19-desktop"><label class="form-label"
-                                                                      for="elm-00000000-0000-0000-0000-000705082576">
-                        Mensaje: <span class="form-req">*</span></label></div>
-                <div data-field-container-groupid="19-desktop"><textarea data-groupid="19-desktop"
-                                                                         id="elm-00000000-0000-0000-0000-000705082576"
-                                                                         class="form-value"
-                                                                         data-label="Mensaje:"
-                                                                         data-formtype="paragraph"
-                                                                         data-content=""
-                                                                         required="true"></textarea></div>
-            </div>
-        </div>
         <div id="wsb-element-00000000-0000-0000-0000-000587654763" class="wsb-element-text" data-type="element">
             <div class="txt "><p>Sesión artística que contrasta la elegancia de la vestimenta de Boda, con
                     locaciones fuera de lugar:&nbsp;lagos, bosques, etc. Se ensucia, moja o rasga el vestido
@@ -317,44 +288,75 @@
                 </div>
             </div>
         </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000705082574" class="wsb-element-customform"
-             data-type="element">
-            <div class="form customform form-row allow-select"
-                 data-aid="elm-container-00000000-0000-0000-0000-000705082574">
-                <div data-label-container-groupid="19-desktop"><label class="form-label"
-                                                                      for="elm-00000000-0000-0000-0000-000705082574">
-                        Correo electr&#243;nico: <span class="form-req">*</span></label></div>
-                <div data-field-container-groupid="19-desktop"><input type="email"
-                                                                      id="elm-00000000-0000-0000-0000-000705082574"
-                                                                      data-groupid="19-desktop"
-                                                                      name="elm-00000000-0000-0000-0000-000705082574"
-                                                                      data-label="Correo electr&#243;nico:"
-                                                                      data-formtype="email"
-                                                                      data-gemsubmit="true" class="form-value"
-                                                                      data-content=""
-                                                                      placeholder="Ingresar direcci&#243;n de correo electr&#243;nico"
-                                                                      required="true"><label
-                            class="form-label opt-in-label"><input type="checkbox" class="opt-in-checkbox">Marca
-                        aqu&#237; para recibir actualizaciones por correo electr&#243;nico</label></div>
-            </div>
-        </div>
+
+
+
         <div id="wsb-element-00000000-0000-0000-0000-000705082573" class="wsb-element-customform"
              data-type="element">
             <div class="form customform form-row allow-select"
                  data-aid="elm-container-00000000-0000-0000-0000-000705082573">
-                <div data-label-container-groupid="19-desktop"><label class="form-label"
-                                                                      for="elm-00000000-0000-0000-0000-000705082573">
-                        Nombre: <span class="form-req">*</span></label></div>
-                <div data-field-container-groupid="19-desktop"><input type="text"
-                                                                      id="elm-00000000-0000-0000-0000-000705082573"
-                                                                      data-groupid="19-desktop"
-                                                                      name="elm-00000000-0000-0000-0000-000705082573"
-                                                                      data-label="Nombre:" data-formtype="input"
-                                                                      class="form-value" data-content=""
-                                                                      required="true" data-namefield="true">
-                </div>
+                <form id="contactForm">
+                    <div data-label-container-groupid="21-desktop">
+                        <label class="form-label" for="elm-00000000-0000-0000-0000-000705083563">Nombre: <span
+                                    class="form-req">*</span></label>
+                    </div>
+
+                    <div data-field-container-groupid="21-desktop" style="padding-bottom: 20px;">
+                        <input type="text" id="id_nombre" data-groupid="21-desktop"
+                               name="nombre" data-label="Nombre:"
+                               data-formtype="input"
+                               class="form-value" data-content=""
+                               required="true" data-namefield="true" placeholder="Ingrese Nombre">
+                    </div>
+
+                    <div data-label-container-groupid="21-desktop">
+                        <label class="form-label" for="elm-00000000-0000-0000-0000-000705083563">Correo Electrónico:
+                            <span
+                                    class="form-req">*</span></label>
+                    </div>
+
+                    <div data-field-container-groupid="21-desktop" style="padding-bottom:20px;">
+                        <input type="email" id="id_email" data-groupid="21-desktop"
+                               name="email" data-label="Correo:"
+                               data-formtype="input"
+                               class="form-value" data-content=""
+                               required="true" data-namefield="true" placeholder="Ingrese Correo Electrónico">
+                    </div>
+
+                    <div data-label-container-groupid="21-desktop">
+                        <label class="form-label" for="elm-00000000-0000-0000-0000-000705083563">Teléfono: <span
+                                    class="form-req">*</span></label>
+                    </div>
+
+                    <div data-field-container-groupid="21-desktop" style="padding-bottom: 20px;">
+                        <input type="text" id="id_telefono" data-groupid="21-desktop"
+                               name="telefono" data-label="Telefono:"
+                               data-formtype="input"
+                               class="form-value" data-content=""
+                               required="true" data-namefield="true"placeholder="Ingrese Telefono">
+                    </div>
+
+                    <div data-label-container-groupid="21-desktop">
+                        <label class="form-label" for="elm-00000000-0000-0000-0000-000705083563">Mensaje: <span
+                                    class="form-req">*</span></label>
+                    </div>
+
+                    <div data-field-container-groupid="21-desktop" style="padding-bottom: 20px;">
+                        <textarea data-groupid="21-desktop" id="id_mensaje"
+                                  class="form-value" data-label="Mensaje:" data-formtype="paragraph" data-content=""
+                                  required="true" tabindex="2103" placeholder="Ingrese Mensaje" name="mensaje"></textarea>
+                    </div>
+
+                    <div>
+                        <input value="Enviar" data-groupid="21-desktop"
+                               data-aid="submit-00000000-0000-0000-0000-000705083567-desktop" class="form-submit"
+                               data-content="" type="submit"></div>
+                </form>
+                <h6 style="color: #8dbc4c; display: none;" id="mensaje_servidor">El mensaje fue enviado correctamente</h6>
             </div>
         </div>
+
+
         <div id="wsb-element-00000000-0000-0000-0000-000705081983" class="wsb-element-facebook"
              data-type="element">
             <div id="fb-container-00000000-0000-0000-0000-000705083570" class="wsb-social-facebook ">
@@ -416,22 +418,6 @@
         <div id="wsb-element-77fece54-74e6-4b52-b575-3d649136be4c" class="wsb-element-text" data-type="element">
             <div class="txt "><h2 style="text-align: center;"><span style="font-size:28px;">Contáctanos</span>
                 </h2></div>
-        </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000705082575" class="wsb-element-customform"
-             data-type="element">
-            <div class="form customform form-row allow-select"
-                 data-aid="elm-container-00000000-0000-0000-0000-000705082575">
-                <div data-label-container-groupid="19-desktop"><label class="form-label"
-                                                                      for="elm-00000000-0000-0000-0000-000705082575">
-                        Tel&#233;fono: <span class="form-req">*</span></label></div>
-                <div data-field-container-groupid="19-desktop"><input type="text"
-                                                                      id="elm-00000000-0000-0000-0000-000705082575"
-                                                                      data-groupid="19-desktop"
-                                                                      name="elm-00000000-0000-0000-0000-000705082575"
-                                                                      data-label="Tel&#233;fono:"
-                                                                      data-formtype="input" class="form-value"
-                                                                      data-content="" required="true"></div>
-            </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000587654757" class="wsb-element-text" data-type="element">
             <div class="txt "><h2 style="text-align: center;"><span style="font-size:36px;">Trailer</span></h2>
