@@ -156,7 +156,7 @@
             </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000586330836" class="wsb-element-text" data-type="element">
-            <div class="txt "><p>9 Poniente 712 A, San Pedro Cholula, Puebla, México</p>
+            <div class="txt "><p>5 de Mayo 1204-A, San Pedro Cholula, Puebla, México</p>
                 <p><br></p>
                 <p>+01 222 704 91 09</p>
                 <p>+52 22 24 553 615<br></p>
@@ -241,7 +241,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                            src="<?php echo IMAGES; ?>bodas.jpg"
+                            src="<?php echo IMAGES; ?>bodas_2017.jpg"
                             style="vertical-align:middle;width:107px;height:106px;"></div>
             </div>
         </div>
@@ -283,7 +283,7 @@
                 <div class="map">
                     <div id="publish-map-00000000-0000-0000-0000-000705082614" style="width: 100%; height: 100%"
                          height="100%" scrolling="no">
-                        <iframe frameborder="0" height="290" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.056648645123!2d-98.3168647844967!3d19.06124678709631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sFeelMakers+Wedding+Cinematography!5e0!3m2!1sen!2sus!4v1481823181468" style="border:0" width="100%"></iframe>
+                        <iframe frameborder="0" height="290" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.9276588089538!2d-98.30657168509903!3d19.06691798709317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sFeelMakers+Wedding+Cinematography!5e0!3m2!1ses-419!2smx!4v1496799312182" style="border:0" width="100%"></iframe>
                     </div>
                 </div>
             </div>
