@@ -155,14 +155,7 @@
                 </div>
             </div>
         </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000586330836" class="wsb-element-text" data-type="element">
-            <div class="txt "><p>5 de Mayo 1204-A, San Pedro Cholula, Puebla, México</p>
-                <p><br></p>
-                <p>+01 222 704 91 09</p>
-                <p>+52 22 24 553 615<br></p>
-                <p><a href="mailto:contacto@feelmakers.mx" target="_blank">contacto@feelmakers.mx</a><br></p>
-            </div>
-        </div>
+
         <div id="wsb-element-db3bf4a2-9d53-4ddf-82e3-19d5a2d1d633" class="wsb-element-paypal"
              data-type="element">
             <div style="text-align: center;">
@@ -278,16 +271,7 @@
                             style="vertical-align:middle;width:154px;height:41px;"></div>
             </div>
         </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000705082614" class="wsb-element-map" data-type="element">
-            <div>
-                <div class="map">
-                    <div id="publish-map-00000000-0000-0000-0000-000705082614" style="width: 100%; height: 100%"
-                         height="100%" scrolling="no">
-                        <iframe frameborder="0" height="290" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.9276588089538!2d-98.30657168509903!3d19.06691798709317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sFeelMakers+Wedding+Cinematography!5e0!3m2!1ses-419!2smx!4v1496799312182" style="border:0" width="100%"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
+
 
 
 
@@ -356,6 +340,15 @@
             </div>
         </div>
 
+        <div id="wsb-element-3d1ff4af-df1b-45cc-a1aa-ae6e675d47bb" class="wsb-element-text" data-type="element" style="top: 2225px;">
+            <script type="text/javascript" src="https://cdn1.bodas.com.mx/js/wp-widget.js"></script>
+            <div id="wp-widget-reviews">
+                <div id="wp-widget-preview">
+                    Lee <a href="https://www.bodas.com.mx/video-para-bodas/feelmakers--e126529/opiniones">nuestras opiniones</a> en &nbsp; <a href='https://www.bodas.com.mx'><img src="https://cdn1.bodas.com.mx/assets/img/logos/gen_logoHeader-es_MX.png" height="25"></a>
+                </div>
+            </div>
+            <script>wpShowReviews('126529', 'black');</script>
+        </div>
 
         <div id="wsb-element-00000000-0000-0000-0000-000705081983" class="wsb-element-facebook"
              data-type="element">
@@ -415,10 +408,7 @@
                                 style="vertical-align:middle;width:47px;height:48px;"></a></div>
             </div>
         </div>
-        <div id="wsb-element-77fece54-74e6-4b52-b575-3d649136be4c" class="wsb-element-text" data-type="element">
-            <div class="txt "><h2 style="text-align: center;"><span style="font-size:28px;">Contáctanos</span>
-                </h2></div>
-        </div>
+
         <div id="wsb-element-00000000-0000-0000-0000-000587654757" class="wsb-element-text" data-type="element">
             <div class="txt "><h2 style="text-align: center;"><span style="font-size:36px;">Trailer</span></h2>
             </div>
