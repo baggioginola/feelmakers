@@ -41,7 +41,7 @@
 </script>
 
 <div id="wsb-canvas-template-page" class="wsb-canvas-page page"
-     style="height: 3096px;">
+     style="height: 3120px;">
     <div id="wsb-canvas-template-container" style="position: absolute;">
         <div id="wsb-element-3d1ff4af-df1b-45cc-a1aa-ae6e675d47bb" class="wsb-element-text" data-type="element" style="top: 2435px;">
             <script type="text/javascript" src="https://cdn1.bodas.com.mx/js/wp-widget.js"></script>

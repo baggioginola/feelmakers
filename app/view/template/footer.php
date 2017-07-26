@@ -2,10 +2,6 @@
      style="margin: auto; min-height:100px; height: 128px; width: 1200px; position: relative;">
     <div id="wsb-canvas-template-footer-container" class="footer-container" style="position: absolute">
 
-        <div id="wsb-element-00000000-0000-0000-0000-000705083574" class="wsb-element-text" data-type="element">
-            <div class="txt "><p>5 de Mayo 1204-A, San Pedro Cholula, Puebla, México</p>
-            </div>
-        </div>
         <div id="wsb-element-00000000-0000-0000-0000-000705083573" class="wsb-element-map" data-type="element">
             <div>
                 <div class="map">
@@ -25,7 +21,11 @@
                                     target="_blank">V Media Comunicación</a></span></pre>
                 <p style="text-align: center;" class="editor_copyright"><span style="font-size:14px;">​+01 222 704 91 09 &nbsp; &nbsp;&nbsp;+52 22 24 553 615 &nbsp; &nbsp; &nbsp;<a
                             href="mailto:contacto@feelmakers.mx" target="_blank">contacto@feelmakers.mx</a></span><br>
-                </p></div>
+                </p>
+
+                <p style="text-align: center;" class="editor_copyright"><span style="font-size:14px;">5 de Mayo 1204-A, San Pedro Cholula, Puebla, México</span>
+                </p>
+            </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000586330838" class="wsb-element-button">
             <div><a id="wsb-button-00000000-0000-0000-0000-000586330838" class="wsb-button button_backtotop "
