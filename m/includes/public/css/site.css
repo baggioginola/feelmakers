@@ -1,0 +1,38 @@
+body {
+    background-color: #e5e5e5;
+}
+
+.navbar-default {
+    background-color: #fff;;
+}
+
+.navbar-toggle {
+    float: left;
+    margin-left: 15px;
+}
+
+.wide-content, .wide-content-warning {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+h2{
+    text-align: center;
+    color: #5c5c5c;
+}
+
+p{
+    text-align: center;
+    color: #5c5c5c;
+}
+
+hr{
+    width: 70%;
+    border-top: 3px solid #8a8a8a;
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
