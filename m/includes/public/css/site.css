@@ -3,7 +3,12 @@ body {
 }
 
 .navbar-default {
-    background-color: #fff;;
+    background-color: #fff;
+    height: 75px;
+}
+
+#myCarousel {
+    padding-top: 75px;
 }
 
 .navbar-toggle {
@@ -17,22 +22,22 @@ body {
     padding-right: 0;
 }
 
-h2{
+h2 {
     text-align: center;
     color: #5c5c5c;
 }
 
-p{
+p {
     text-align: center;
     color: #5c5c5c;
 }
 
-hr{
+hr {
     width: 70%;
     border-top: 3px solid #8a8a8a;
 }
 
-.row{
+.row {
     padding-top: 10px;
     padding-bottom: 10px;
 }
