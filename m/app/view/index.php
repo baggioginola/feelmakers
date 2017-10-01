@@ -25,13 +25,19 @@
         <div class="container-fluid" style="text-align: center; padding-top: 20px;">
             <div class="row">
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <img src="<?php echo IMAGES; ?>facebook_yellow.png">
+                    <a href="https://www.facebook.com/FeelMakers.mx">
+                        <img src="<?php echo IMAGES; ?>facebook_yellow.png">
+                    </a>
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <img src="<?php echo IMAGES; ?>twitter_yellow.png">
+                    <a href="https://twitter.com/FeelMakersMX">
+                        <img src="<?php echo IMAGES; ?>twitter_yellow.png">
+                    </a>
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <img src="<?php echo IMAGES; ?>vimeo.png">
+                    <a href="https://vimeo.com/feelmakers">
+                        <img src="<?php echo IMAGES; ?>vimeo.png">
+                    </a>
                 </div>
             </div>
         </div>

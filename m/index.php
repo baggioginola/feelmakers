@@ -20,7 +20,7 @@ $app->get('/fotografia', function() use($app) {
     $app->render('fotografia.php');
 });
 
-$app->get('/acerca', function() use($app) {
+$app->get('/contacto', function() use($app) {
    $app->render('acerca.php');
 });
 

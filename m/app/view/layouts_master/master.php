@@ -25,7 +25,7 @@
 </head>
 <body>
 
-<nav class="navbar navbar-default navbar-fixed-top" id="header">
+<nav class="navbar navbar-default navbar-fixed-top" id="header" role="navigation">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -43,21 +43,15 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                       aria-expanded="false">Categorías <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        {% for category  in categories %}
-                        <li><a href="{{ settings.DOMAIN }}categoria/{{ category.id }}">{{ category.nombre }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
+                <li>
+                    <a href="<?php echo DOMAIN; ?>save-the-date">SAVE THE DATE</a>
                 </li>
-                <li><a href="{{ settings.DOMAIN }}quienes-somos">¿Quiénes Somos?</a></li>
-                <li><a href="{{ settings.DOMAIN }}contacto">Contacto</a></li>
-                <li><a href="{{ settings.DOMAIN }}carrito-compra"><img src="{{ settings.IMG }}/cart.png" width="20px"> |
-                        <span id="cart_productos">{% if cart_products == 0 %}Vacío {% else %}{{ cart_products }} producto(s){% endif %}</span></a>
-                </li>
+                <li><a href="<?php echo DOMAIN; ?>feel-session">FEEL SESSION</a></li>
+                <li><a href="<?php echo DOMAIN; ?>wedding-day">WEDDING DAY</a></li>
+                <li><a href="<?php echo DOMAIN; ?>trash-dress">TRASH THE DRESS</a></li>
+                <li><a href="<?php echo DOMAIN; ?>recomendaciones">RECOMENDACIONES</a></li>
+                <li><a href="<?php echo DOMAIN; ?>contacto">CONTACTO</a></li>
+                <li><a href="<?php echo DOMAIN; ?>nosotros">NOSOTROS</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
