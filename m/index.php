@@ -20,8 +20,16 @@ $app->get('/fotografia', function() use($app) {
     $app->render('fotografia.php');
 });
 
-$app->get('/contacto', function() use($app) {
+$app->get('/acerca', function() use($app) {
    $app->render('acerca.php');
+});
+
+$app->get('/contacto', function() use($app) {
+    $app->render('contacto.php');
+});
+
+$app->get('/recomendaciones', function() use($app) {
+    $app->render('recomendaciones.php');
 });
 
 
