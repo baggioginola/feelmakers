@@ -48,10 +48,10 @@
                 </li>
                 <li><a href="<?php echo DOMAIN; ?>feel-session">FEEL SESSION</a></li>
                 <li><a href="<?php echo DOMAIN; ?>wedding-day">WEDDING DAY</a></li>
-                <li><a href="<?php echo DOMAIN; ?>trash-dress">TRASH THE DRESS</a></li>
+                <li><a href="<?php echo DOMAIN; ?>trash-the-dress">TRASH THE DRESS</a></li>
                 <li><a href="<?php echo DOMAIN; ?>recomendaciones">RECOMENDACIONES</a></li>
                 <li><a href="<?php echo DOMAIN; ?>contacto">CONTACTO</a></li>
-                <li><a href="<?php echo DOMAIN; ?>nosotros">NOSOTROS</a></li>
+                <li><a href="<?php echo DOMAIN; ?>acerca">NOSOTROS</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->

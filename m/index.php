@@ -12,14 +12,6 @@ $app->get('/', function() use ($app) {
     $app->render('index.php');
 });
 
-$app->get('/cinematografia', function() use($app) {
-    $app->render('cinematografia.php');
-});
-
-$app->get('/fotografia', function() use($app) {
-    $app->render('fotografia.php');
-});
-
 $app->get('/acerca', function() use($app) {
    $app->render('acerca.php');
 });
@@ -32,6 +24,21 @@ $app->get('/recomendaciones', function() use($app) {
     $app->render('recomendaciones.php');
 });
 
+$app->get('/save-the-date', function() use($app) {
+    $app->render('save-the-date.php');
+});
+
+$app->get('/feel-session', function() use($app) {
+    $app->render('feel-session.php');
+});
+
+$app->get('/wedding-day', function() use($app) {
+    $app->render('wedding-day.php');
+});
+
+$app->get('/trash-the-dress', function() use($app) {
+    $app->render('trash-the-dress.php');
+});
 
 $app->post('/contacto/sendMessage', function() use($app) {
    require_once __CONTROLLER__ . 'CContactController.class.inc.php';
