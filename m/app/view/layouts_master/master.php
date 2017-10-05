@@ -63,5 +63,4 @@
 </body>
 <script type="text/javascript" src="<?php echo JS; ?>custom/config.js"></script>
 <script type="text/javascript" src="<?php echo JS; ?>custom/main.js"></script>
-<script type="text/javascript" src="<?php echo JS; ?>custom/contact.js"></script>
 </html>

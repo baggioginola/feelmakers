@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"
                  style="padding-right: 45px; padding-left: 45px; padding-top: 40px;">
-                <form class="form-horizontal" role="form" id="form_contact" data-toggle="validator">
+                <form class="form-horizontal" role="form" id="contactForm" data-toggle="validator">
                     <h3 class="sub-header">Información Personal</h3>
 
                     <div class="form-group has-feedback">
@@ -15,7 +15,7 @@
 
                         <div class="col-lg-10">
                             <input type="text" class="form-control" id="id_nombre" placeholder="Nombre"
-                                   required autocomplete="off" name="name">
+                                   required autocomplete="off" name="nombre">
                             <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
 
                         </div>
@@ -26,7 +26,7 @@
 
                         <div class="col-lg-10">
                             <input type="email" class="form-control" id="id_email" required
-                                   name="e_mail" placeholder="Email" autocomplete="off">
+                                   name="email" placeholder="Email" autocomplete="off">
                             <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
 
                         </div>
@@ -38,7 +38,7 @@
 
                         <div class="col-lg-10">
                             <input type="tel" class="form-control" id="id_telefono" required
-                                   placeholder="Teléfono" autocomplete="off" name="phone">
+                                   placeholder="Teléfono" autocomplete="off" name="telefono">
                             <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
                         </div>
                     </div>
@@ -49,7 +49,7 @@
 
                         <div class="col-lg-10">
                                         <textarea class="form-control" placeholder="Mensaje" rows="6" cols="5"
-                                                  required="required" name="message" id="id_message"></textarea>
+                                                  required="required" name="mensaje" id="id_message"></textarea>
                             <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
                         </div>
                     </div>

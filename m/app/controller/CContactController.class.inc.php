@@ -12,8 +12,8 @@ class Contact extends BaseController
     public static $object = null;
 
     private $parameters = array();
-    #private $send_to = 'contacto@grupocoser.com.mx';
-    private $send_to = 'contacto@feelmakers.mx';
+    private $send_to = 'mariocuevas88@gmail.com';
+    #private $send_to = 'contacto@feelmakers.mx';
     private $subject = 'Contacto de Pagina Web';
     private $header = 'From:  Sitio Web <info@feelmakers.com.mx>';
     private $message = '';
@@ -52,10 +52,9 @@ class Contact extends BaseController
         if(!$this->parameters){
             return false;
         }
-
-        #$this->header .= $this->parameters['email'];
-
-        return mail($this->send_to, $this->subject, $this->message, $this->header);
+        #mail($this->send_to, $this->subject, $this->message, $this->header);
+        return true;
+        #return mail($this->send_to, $this->subject, $this->message, $this->header);
     }
 
     private function setMessage()
