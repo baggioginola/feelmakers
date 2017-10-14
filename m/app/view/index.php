@@ -1,10 +1,7 @@
 <div class="container-fluid wide-content">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="item active">
-                <img src="<?php echo IMAGES; ?>banner.png" alt="">
-            </div>
-        </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 25px;" id="mobile_video_banner"
+         data-video-id="182418365">
+        <div id="player_banner" style="height: 200px;"></div>
     </div>
     <div id="section_2" class="container highlights-new">
         <div class="row">

@@ -23,6 +23,13 @@
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                        <li data-target="#myCarousel" data-slide-to="4"></li>
+                        <li data-target="#myCarousel" data-slide-to="5"></li>
+                        <li data-target="#myCarousel" data-slide-to="6"></li>
+                        <li data-target="#myCarousel" data-slide-to="7"></li>
+                        <li data-target="#myCarousel" data-slide-to="8"></li>
+                        <li data-target="#myCarousel" data-slide-to="9"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
@@ -33,6 +40,27 @@
                         </div>
                         <div class="item">
                             <img src="<?php echo IMAGES; ?>fotografia/wedding/12.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding/20.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding/29.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding/34.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding/44.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding/50.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding/55.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding/44.jpg" alt="">
                         </div>
                     </div>
 

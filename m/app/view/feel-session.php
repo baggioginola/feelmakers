@@ -23,6 +23,10 @@
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                        <li data-target="#myCarousel" data-slide-to="4"></li>
+                        <li data-target="#myCarousel" data-slide-to="5"></li>
+                        <li data-target="#myCarousel" data-slide-to="6"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
@@ -33,6 +37,18 @@
                         </div>
                         <div class="item">
                             <img src="<?php echo IMAGES; ?>fotografia/session/7.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/session/8.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/session/9.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/session/3.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/session/1.jpg" alt="">
                         </div>
                     </div>
 

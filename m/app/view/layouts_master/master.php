@@ -19,7 +19,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-
+    <script src="https://player.vimeo.com/api/player.js"></script>
     <link rel="shortcut icon"
           href="<?php echo IMAGES; ?>feelmakers_icon.png">
 </head>
@@ -37,7 +37,7 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <a class="navbar-brand" href="<?php echo DOMAIN; ?>"><img src="<?php echo IMAGES; ?>logo.png" width="100px">Feelmakers</a>
+            <a class="navbar-brand" href="<?php echo DOMAIN; ?>"><img src="<?php echo IMAGES; ?>logo.png" width="200" alt="Feelmakers"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -50,8 +50,8 @@
                 <li><a href="<?php echo DOMAIN; ?>wedding-day">WEDDING DAY</a></li>
                 <li><a href="<?php echo DOMAIN; ?>trash-the-dress">TRASH THE DRESS</a></li>
                 <li><a href="<?php echo DOMAIN; ?>recomendaciones">RECOMENDACIONES</a></li>
+                <li><a href="<?php echo DOMAIN; ?>acerca">NUESTRO EQUIPO</a></li>
                 <li><a href="<?php echo DOMAIN; ?>contacto">CONTACTO</a></li>
-                <li><a href="<?php echo DOMAIN; ?>acerca">NOSOTROS</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -61,6 +61,8 @@
 
 <?php echo $yield; ?>
 </body>
+<script type="text/javascript" src="<?php echo JS; ?>vimeo.js"></script>
+<script type="text/javascript" src="<?php echo JS; ?>swipe.min.js"></script>
 <script type="text/javascript" src="<?php echo JS; ?>custom/config.js"></script>
 <script type="text/javascript" src="<?php echo JS; ?>custom/main.js"></script>
 </html>
