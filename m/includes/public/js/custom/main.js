@@ -52,5 +52,11 @@
             //Default is 75px, set to 0 for demo so any distance triggers swipe
             threshold:0
         });
+
+        $(document).on('click','.navbar-collapse.in',function(e) {
+            if( $(e.target).is('a') ) {
+                $(this).collapse('hide');
+            }
+        });
     })
 })(jQuery);

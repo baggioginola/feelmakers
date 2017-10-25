@@ -44,14 +44,14 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="<?php echo DOMAIN; ?>save-the-date">SAVE THE DATE</a>
+                    <a href="<?php echo DOMAIN; ?>#save-the-date">SAVE THE DATE</a>
                 </li>
-                <li><a href="<?php echo DOMAIN; ?>feel-session">FEEL SESSION</a></li>
-                <li><a href="<?php echo DOMAIN; ?>wedding-day">WEDDING DAY</a></li>
-                <li><a href="<?php echo DOMAIN; ?>trash-the-dress">TRASH THE DRESS</a></li>
-                <li><a href="<?php echo DOMAIN; ?>recomendaciones">RECOMENDACIONES</a></li>
-                <li><a href="<?php echo DOMAIN; ?>acerca">NUESTRO EQUIPO</a></li>
-                <li><a href="<?php echo DOMAIN; ?>contacto">CONTACTO</a></li>
+                <li><a href="<?php echo DOMAIN; ?>#feel-session">FEEL SESSION</a></li>
+                <li><a href="<?php echo DOMAIN; ?>#wedding-day">WEDDING DAY</a></li>
+                <li><a href="<?php echo DOMAIN; ?>#trash-the-dress">TRASH THE DRESS</a></li>
+                <li><a href="<?php echo DOMAIN; ?>#recomendaciones">RECOMENDACIONES</a></li>
+                <li><a href="<?php echo DOMAIN; ?>#acerca">NUESTRO EQUIPO</a></li>
+                <li><a href="<?php echo DOMAIN; ?>#contacto">CONTACTO</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
