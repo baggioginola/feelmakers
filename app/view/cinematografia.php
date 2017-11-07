@@ -42,8 +42,8 @@
 
 
             <div class="wsb-htmlsnippet-element">
-                <iframe src="https://player.vimeo.com/video/187695673" width="410" height="281" frameborder="0"
-                        webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                <iframe src="https://player.vimeo.com/video/187695673?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
+                        allowfullscreen=""></iframe>
             </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000587654753" class="wsb-element-htmlsnippet"
@@ -55,8 +55,8 @@
                 <iframe src="https://player.vimeo.com/video/152523654" width="410" height="281" frameborder="0"
                         webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                 !-->
-                <iframe src="https://player.vimeo.com/video/180485622" width="410" height="281" frameborder="0"
-                        webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe src="https://player.vimeo.com/video/180485622?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
+                         allowfullscreen></iframe>
                 <p><a href="https://vimeo.com/180485622">Trailer Majo+Hugo</a> from <a
                         href="https://vimeo.com/feelmakers">FeelMakers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
@@ -66,10 +66,7 @@
 
 
             <div class="wsb-htmlsnippet-element">
-                <iframe src="https://player.vimeo.com/video/167131561" width="410" height="281" frameborder="0"
-                        webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=" src=" https:
-                //player.vimeo.com/video/167131561"="" width="410" height="281" frameborder="0"
-                webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+                <iframe src="https://player.vimeo.com/video/167131561?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0" allowfullscreen=""></iframe></div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000587654745" class="wsb-element-shape"
              data-type="element">
@@ -131,8 +128,7 @@
                 <iframe src="https://player.vimeo.com/video/165334029" width="420" height="281" frameborder="0"
                         webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                         !-->
-                <iframe src="https://player.vimeo.com/video/202552565" width="420" height="281" frameborder="0" muted
-                        webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe src="https://player.vimeo.com/video/202552565?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0" allowfullscreen></iframe>
                 <p><a href="https://vimeo.com/202552565">Trailer Maribel+Chris</a> from <a
                         href="https://vimeo.com/feelmakers">FeelMakers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
@@ -146,8 +142,8 @@
                 <iframe src="https://player.vimeo.com/video/160115269" width="400" height="281" frameborder="0"
                         webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                         !-->
-                <iframe src="https://player.vimeo.com/video/195326382" width="400" height="281" frameborder="0"
-                        webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe src="https://player.vimeo.com/video/195326382?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
+                        allowfullscreen></iframe>
                 <p><a href="https://vimeo.com/195326382">Trailer Vero+Ryan</a> from <a
                         href="https://vimeo.com/feelmakers">FeelMakers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
@@ -157,9 +153,8 @@
 
 
             <div class="wsb-htmlsnippet-element">
-                <iframe src="https://player.vimeo.com/video/163626207" width="410" height="281" frameborder="0"
-                        webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=" src=" https:
-                //player.vimeo.com/video/163626207"="" width="410" height="281" frameborder="0"
+                <iframe src="https://player.vimeo.com/video/163626207?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
+                        webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="410" height="281" frameborder="0"
                 webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000587654741" class="wsb-element-text" data-type="element">
