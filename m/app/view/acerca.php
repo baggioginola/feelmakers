@@ -1,4 +1,5 @@
-<div class="container-fluid wide-content">
+<span class="anchor" id="acerca"></span>
+<div class="container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -58,17 +59,16 @@
         <div class="container-fluid" style="text-align: center; padding-top: 20px; padding-bottom: 30px;">
             <div class="row">
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <img src="<?php echo IMAGES; ?>bodas_2017.jpg" width="100px">
+                    <img src="<?php echo IMAGES; ?>bodas_2017.jpg" width="95px">
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4" style="padding-top: 10px;">
-                    <img src="<?php echo IMAGES; ?>mywed.png" width="145px">
+                    <img src="<?php echo IMAGES; ?>mywed.png" width="105px">
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <img src="<?php echo IMAGES; ?>ziwa.png" width="100px;">
+                    <img src="<?php echo IMAGES; ?>ziwa.png" width="90px;">
                 </div>
             </div>
         </div>
 
     </div>
-
 </div>

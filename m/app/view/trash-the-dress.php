@@ -1,5 +1,5 @@
-<script src="<?php echo JS; ?>custom/video.js"></script>
-<div class="container-fluid wide-content">
+<span class="anchor" id="trash-the-dress"></span>
+<div class="container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -13,7 +13,10 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 25px;" id="mobile_video"
                  data-video-id="187695673">
-                <div id="player" style="height: 200px;"></div>
+                <div id="player" style="height: 200px;">
+                    <iframe src='https://player.vimeo.com/video/187695673?title=0&byline=0&portrait=0' frameborder="0"
+                            style="max-width: inherit;" width="100%" height="200"></iframe>
+                </div>
             </div>
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 25px; padding-bottom: 25px;">
@@ -27,28 +30,40 @@
                         <li data-target="#myCarousel" data-slide-to="4"></li>
                         <li data-target="#myCarousel" data-slide-to="5"></li>
                         <li data-target="#myCarousel" data-slide-to="6"></li>
+                        <li data-target="#myCarousel" data-slide-to="7"></li>
+                        <li data-target="#myCarousel" data-slide-to="8"></li>
+                        <li data-target="#myCarousel" data-slide-to="9"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="<?php echo IMAGES; ?>fotografia/dress/12.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/dress/2.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/dress/3.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/3.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/dress/8.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/4.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/dress/10.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/5.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/dress/1.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/6.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/dress/5.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/7.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/8.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/9.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/10.jpg" alt="">
                         </div>
                     </div>
 

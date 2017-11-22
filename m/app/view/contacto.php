@@ -1,7 +1,8 @@
 <script src="<?php echo JS; ?>validator.js" type="text/javascript"></script>
 <script src="<?php echo JS; ?>bootbox.min.js"></script>
 <script src="<?php echo JS; ?>custom/contact.js" type="text/javascript"></script>
-<div class="container-fluid wide-content">
+<span class="anchor" id="contacto"></span>
+<div class="container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"
@@ -77,12 +78,14 @@
                     ​+01 222 704 91 09 <br>
                     +52 22 24 553 615
                 </address>
+                <!--
                 <address>
                     <strong>Dirección</strong><br>
                     <abbr title="address">
                         5 de Mayo 1204-A, San Pedro Cholula, Puebla, México
                     </abbr>
                 </address>
+                !-->
                 <address>
                     <strong>E-mail</strong><br>
                     <a href="mailto:contacto@feelmakers.mx">contacto@feelmakers.mx</a>

@@ -1,22 +1,14 @@
-<span class="anchor" id="save-the-date"></span>
+<span class="anchor" id="specialbooth"></span>
 <div class="container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <h1>SAVE THE DATE</h1>
+                <h1>SPECIALBOOTH</h1>
 
                 <p>
-                    Puede ser una versión previa del Feel Session o un video nuevo lleno de creatividad que sirva de
-                    invitación electrónica
+                    El set de las imágenes más divertidas de tu Boda y/o un original video en slow motion para que
+                    disfrutes las expresiones, momentos y demás locuras que hagan tus invitados
                 </p>
-            </div>
-
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 0px;" id="mobile_video"
-                 data-video-id="163626207">
-                <div id="player" style="height: 200px;">
-                    <iframe src='https://player.vimeo.com/video/163626207?title=0&byline=0&portrait=0' frameborder="0"
-                            style="max-width: inherit;" width="100%" height="200"></iframe>
-                </div>
             </div>
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 25px; padding-bottom: 25px;">
@@ -29,25 +21,29 @@
                         <li data-target="#myCarousel" data-slide-to="3"></li>
                         <li data-target="#myCarousel" data-slide-to="4"></li>
                         <li data-target="#myCarousel" data-slide-to="5"></li>
+                        <li data-target="#myCarousel" data-slide-to="6"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="<?php echo IMAGES; ?>fotografia/save_date/1.jpg" alt="">
-                        </div>
-                        <div class="item">--
-                            <img src="<?php echo IMAGES; ?>fotografia/save_date/2.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/save_date/3.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/save_date/4.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/3.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/save_date/5.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/4.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/save_date/6.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/5.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/6.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/7.jpg" alt="">
                         </div>
                     </div>
 
