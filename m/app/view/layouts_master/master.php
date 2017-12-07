@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo CSS ?>site.css">
 
     <link media="screen" href="<?php echo JS; ?>jqueryui/jquery-ui-1.8.16.custom.css" rel="stylesheet"/>
-
+    <link href="http://vjs.zencdn.net/5.16.0/video-js.css" rel="stylesheet">
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
@@ -66,4 +66,6 @@
 <script type="text/javascript" src="<?php echo JS; ?>swipe.min.js"></script>
 <script type="text/javascript" src="<?php echo JS; ?>custom/config.js"></script>
 <script type="text/javascript" src="<?php echo JS; ?>custom/main.js"></script>
+<script src="http://vjs.zencdn.net/6.4.0/video.js"></script>
+<script type="text/javascript" src="<?php echo JS; ?>custom/video.js"></script>
 </html>

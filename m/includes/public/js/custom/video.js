@@ -2,15 +2,11 @@
  * Created by mario on 02/oct/2017.
  */
 $(document).ready(function () {
+    var ratio = 1.33;
     var player = $('#player');
-    var rd_video = $('#mobile_video');
-
-    var videoId = rd_video.data('video-id');
-
-    console.log(videoId);
-    var height = rd_video.height();
-    var width = rd_video.width();
-
-    console.log(width);
-    player.after('<iframe src="https://player.vimeo.com/video/' + videoId + '?autoplay=1&title=0&byline=0&portrait=0" frameborder="0" style="position: absolute; top: 0px;" width="' + width + '" height="' + height + '"></iframe>');
+    var width = player.width();
+    var height = width / ratio;
+    var video_js = $('.video-js');
+    video_js.css('width', width + 'px');
+    video_js.css('height', height + 'px');
 });
