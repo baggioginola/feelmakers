@@ -21,35 +21,6 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 25px; padding-bottom: 25px;">
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-                    <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" data-slide-to="2"></li>
-                        <li data-target="#myCarousel" data-slide-to="3"></li>
-                        <li data-target="#myCarousel" data-slide-to="4"></li>
-                        <li data-target="#myCarousel" data-slide-to="5"></li>
-                        <li data-target="#myCarousel" data-slide-to="6"></li>
-                        <li data-target="#myCarousel" data-slide-to="7"></li>
-                        <li data-target="#myCarousel" data-slide-to="8"></li>
-                        <li data-target="#myCarousel" data-slide-to="9"></li>
-                        <li data-target="#myCarousel" data-slide-to="10"></li>
-                        <li data-target="#myCarousel" data-slide-to="11"></li>
-                        <li data-target="#myCarousel" data-slide-to="12"></li>
-                        <li data-target="#myCarousel" data-slide-to="13"></li>
-                        <li data-target="#myCarousel" data-slide-to="14"></li>
-                        <li data-target="#myCarousel" data-slide-to="15"></li>
-                        <li data-target="#myCarousel" data-slide-to="16"></li>
-                        <li data-target="#myCarousel" data-slide-to="17"></li>
-                        <li data-target="#myCarousel" data-slide-to="18"></li>
-                        <li data-target="#myCarousel" data-slide-to="19"></li>
-                        <li data-target="#myCarousel" data-slide-to="20"></li>
-                        <li data-target="#myCarousel" data-slide-to="21"></li>
-                        <li data-target="#myCarousel" data-slide-to="22"></li>
-                        <li data-target="#myCarousel" data-slide-to="23"></li>
-                        <li data-target="#myCarousel" data-slide-to="24"></li>
-                        <li data-target="#myCarousel" data-slide-to="25"></li>
-                    </ol>
                     <div class="carousel-inner">
                         <div class="item active">
                             <img src="<?php echo IMAGES; ?>fotografia/wedding_day/1.jpg" alt="">

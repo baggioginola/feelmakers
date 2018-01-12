@@ -22,19 +22,12 @@
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 25px; padding-bottom: 25px;">
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-                    <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" data-slide-to="2"></li>
-                        <li data-target="#myCarousel" data-slide-to="3"></li>
-                        <li data-target="#myCarousel" data-slide-to="4"></li>
-                        <li data-target="#myCarousel" data-slide-to="5"></li>
-                    </ol>
+
                     <div class="carousel-inner">
                         <div class="item active">
                             <img src="<?php echo IMAGES; ?>fotografia/save_date/1.jpg" alt="">
                         </div>
-                        <div class="item">--
+                        <div class="item">
                             <img src="<?php echo IMAGES; ?>fotografia/save_date/2.jpg" alt="">
                         </div>
                         <div class="item">

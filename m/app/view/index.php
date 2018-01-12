@@ -2,13 +2,8 @@
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 0px;" id="mobile_video"
          data-video-id="182418365">
         <div id="player">
-            <video id="principal_video" class="video-js"  preload="false" loop width="" height="200"
-                   poster="<?php echo IMAGES; ?>logo.png" data-setup="{}" autoplay="true" muted>
-                <source id="video-source" src="<?php echo IMAGES; ?>video.mp4" type="video/mp4">
-                <p class="vjs-no-js">
-                    To view this video please enable JavaScript, and consider upgrading to a web browser that
-                    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-            </video>
+            <img src="<?php echo IMAGES; ?>home.jpg" class="img-responsive">
+
         </div>
     </div>
     <div id="section_2" class="container highlights-new">
