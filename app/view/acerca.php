@@ -1,5 +1,5 @@
 <div id="wsb-canvas-template-page" class="wsb-canvas-page page"
-     style="height: 2185px;">
+     style="height: 2415px;">
     <div id="wsb-canvas-template-container" style="position: absolute;">
         <div id="wsb-element-acf1d392-e9a5-418b-9db9-8c7449c93837" class="wsb-element-image"
              data-type="element">
