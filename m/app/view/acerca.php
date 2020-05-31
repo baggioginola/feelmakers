@@ -59,10 +59,12 @@
         <div class="container-fluid" style="text-align: center; padding-top: 20px; padding-bottom: 30px;">
             <div class="row">
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <img src="<?php echo IMAGES; ?>bodas_2017.jpg" width="95px">
+                    <img src="<?php echo IMAGES; ?>bodas.jpg" width="95px">
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4" style="padding-top: 10px;">
-                    <img src="<?php echo IMAGES; ?>mywed.png" width="105px">
+                    <a href="https://mywed.com/es/photographer/Feelmakers%C2%B0/">
+                        <img src="<?php echo IMAGES; ?>mywed.png" width="105px">
+                    </a>
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                     <img src="<?php echo IMAGES; ?>ziwa.png" width="90px;">

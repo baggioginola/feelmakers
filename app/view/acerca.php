@@ -4,9 +4,13 @@
         <div id="wsb-element-acf1d392-e9a5-418b-9db9-8c7449c93837" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><img
-                            src="<?php echo IMAGES; ?>mywed.png"
-                            style="vertical-align:middle;width:155px;height:63px;"></div>
+                <div class="img">
+                    <a href="https://mywed.com/es/photographer/Feelmakers%C2%B0/">
+                        <img
+                                src="<?php echo IMAGES; ?>mywed.png"
+                                style="vertical-align:middle;width:155px;height:63px;">
+                    </a>
+                </div>
             </div>
         </div>
         <div id="wsb-element-817b4ee1-ebe7-405c-8e06-4488976a202d" class="wsb-element-paypal"
@@ -207,6 +211,14 @@
                 </ul>
             </div>
         </div>
+        <div id="wsb-element-whatsapp" class="wsb-element-image"
+             data-type="element">
+            <div class="wsb-image-inner ">
+                <div class="img"><a href="https://api.whatsapp.com/send?phone=+522224553615&text=Hola!%20Quisiera%20mas%20informacion%20de%20sus%20servicios" target="_blank" rel=""><img
+                                src="<?php echo IMAGES; ?>whatsapp.png"
+                                style="vertical-align:middle;width:49px;height:50px;"></a></div>
+            </div>
+        </div>
         <div id="wsb-element-00000000-0000-0000-0000-000586848802" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
@@ -243,7 +255,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                            src="<?php echo IMAGES; ?>bodas_2017.jpg"
+                            src="<?php echo IMAGES; ?>bodas.jpg"
                             style="vertical-align:middle;width:107px;height:106px;"></div>
             </div>
         </div>

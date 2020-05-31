@@ -21,7 +21,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-top: 25px; padding-bottom: 25px;">
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
+                    
                     <div class="carousel-inner">
                         <div class="item active">
                             <img src="<?php echo IMAGES; ?>fotografia/trash_dress/1.jpg" alt="">

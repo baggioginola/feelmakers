@@ -55,9 +55,9 @@
                 <iframe src="https://player.vimeo.com/video/152523654" width="410" height="281" frameborder="0"
                         webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                 !-->
-                <iframe src="https://player.vimeo.com/video/180485622?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
+                <iframe src="https://player.vimeo.com/video/273136048?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
                          allowfullscreen></iframe>
-                <p><a href="https://vimeo.com/180485622">Trailer Majo+Hugo</a> from <a
+                <p><a href="https://vimeo.com/273136048">Trailer Vero+Juan+Carlos</a> from <a
                         href="https://vimeo.com/feelmakers">FeelMakers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
         </div>
@@ -128,8 +128,8 @@
                 <iframe src="https://player.vimeo.com/video/165334029" width="420" height="281" frameborder="0"
                         webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                         !-->
-                <iframe src="https://player.vimeo.com/video/202552565?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0" allowfullscreen></iframe>
-                <p><a href="https://vimeo.com/202552565">Trailer Maribel+Chris</a> from <a
+                <iframe src="https://player.vimeo.com/video/246330072?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0" allowfullscreen></iframe>
+                <p><a href="https://vimeo.com/246330072">Trailer Claudia+Sean</a> from <a
                         href="https://vimeo.com/feelmakers">FeelMakers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
         </div>
@@ -142,9 +142,9 @@
                 <iframe src="https://player.vimeo.com/video/160115269" width="400" height="281" frameborder="0"
                         webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                         !-->
-                <iframe src="https://player.vimeo.com/video/195326382?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
+                <iframe src="https://player.vimeo.com/video/275363046?title=0&byline=0&portrait=0" width="410" height="281" frameborder="0"
                         allowfullscreen></iframe>
-                <p><a href="https://vimeo.com/195326382">Trailer Vero+Ryan</a> from <a
+                <p><a href="https://vimeo.com/275363046">Trailer Karla+Jorge</a> from <a
                         href="https://vimeo.com/feelmakers">FeelMakers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
         </div>
@@ -233,9 +233,13 @@
         <div id="wsb-element-acf1d392-e9a5-418b-9db9-8c7449c93837" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><img
-                        src="<?php echo IMAGES; ?>mywed.png"
-                        style="vertical-align:middle;width:155px;height:63px;"></div>
+                <div class="img">
+                    <a href="https://mywed.com/es/photographer/Feelmakers%C2%B0/">
+                        <img
+                            src="<?php echo IMAGES; ?>mywed.png"
+                            style="vertical-align:middle;width:155px;height:63px;">
+                    </a>
+                </div>
             </div>
         </div>
         <div id="wsb-element-9d05bd73-3e86-4e99-b992-b8ede394013d" class="wsb-element-image"
@@ -250,7 +254,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                        src="<?php echo IMAGES; ?>bodas_2017.jpg"
+                        src="<?php echo IMAGES; ?>bodas.jpg"
                         style="vertical-align:middle;width:107px;height:106px;"></div>
             </div>
         </div>
@@ -415,6 +419,14 @@
                             style="font-size:22px;"
                             class="editor_header">* Tomas y tratamiento de pelicula</span></span><span
                         style="font-size:22px;" class="editor_header"><br></span></p></div>
+        </div>
+        <div id="wsb-element-whatsapp" class="wsb-element-image"
+             data-type="element">
+            <div class="wsb-image-inner ">
+                <div class="img"><a href="https://api.whatsapp.com/send?phone=+522224553615&text=Hola!%20Quisiera%20mas%20informacion%20de%20sus%20servicios" target="_blank" rel=""><img
+                                src="<?php echo IMAGES; ?>whatsapp.png"
+                                style="vertical-align:middle;width:49px;height:50px;"></a></div>
+            </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000586848802" class="wsb-element-image"
              data-type="element">
