@@ -185,7 +185,7 @@
                 #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul>li.active .nav-subnav li:hover,
                 #wsb-nav-00000000-0000-0000-0000-000650271092.wsb-navigation-rendered-top-level-container ul>li.active .nav-subnav li:hover>a {
                     background-color:  !important;
-                    color: !important;
+                    color:  !important;
                 }
                 </style>
                 <ul class="wsb-navigation-rendered-top-level-menu ">
