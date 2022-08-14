@@ -7,7 +7,7 @@
  */
 
 define('__ROOT__', dirname(__FILE__));
-define('PROJECT', 'github/feelmakers/');
+define('PROJECT', 'git/feelmakers/');
 //define('PROJECT', '');
 define('DOMAIN', 'http://' . $_SERVER['HTTP_HOST'] . '/' . PROJECT);
 
