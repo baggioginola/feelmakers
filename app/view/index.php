@@ -66,16 +66,38 @@
         <div id="wsb-element-acf1d392-e9a5-418b-9db9-8c7449c93837" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><img
-                        src="<?php echo IMAGES; ?>mywed.png"
-                        style="vertical-align:middle;width:155px;height:63px;"></div>
+                <div class="img">
+                    <a href="https://mywed.com/es/photographer/Feelmakers%C2%B0/">
+                        <img
+                            src="<?php echo IMAGES; ?>mywed.png"
+                            style="vertical-align:middle;width:155px;height:63px;">
+                    </a>
+                </div>
             </div>
         </div>
+        <div id="wsb-element-whatsapp" class="wsb-element-image"
+             data-type="element">
+            <div class="wsb-image-inner ">
+                <div class="img"><a href="https://api.whatsapp.com/send?phone=+522224553615&text=Hola!%20Quisiera%20mas%20informacion%20de%20sus%20servicios" target="_blank" rel=""><img
+                                src="<?php echo IMAGES; ?>whatsapp.png"
+                                style="vertical-align:middle;width:49px;height:50px;"></a></div>
+            </div>
+        </div>
+
+        <div id="wsb-element-instagram" class="wsb-element-image"
+             data-type="element">
+            <div class="wsb-image-inner ">
+                <div class="img"><a href="https://www.instagram.com/feelmakers.mx/" target="_blank" rel=""><img
+                                src="<?php echo IMAGES; ?>instagram_icono.png"
+                                style="vertical-align:middle;"></a></div>
+            </div>
+        </div>
+
         <div id="wsb-element-00000000-0000-0000-0000-000586848802" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><a href="https://www.facebook.com/FeelMakers.mx" target="_blank" rel=""><img
-                            src="<?php echo IMAGES; ?>facebook_yellow.png"
+                            src="<?php echo IMAGES; ?>facebook.png"
                             style="vertical-align:middle;width:49px;height:50px;"></a></div>
             </div>
         </div>
@@ -83,7 +105,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><a href="https://twitter.com/FeelMakersMX" target="_blank" rel=""><img
-                            src="<?php echo IMAGES; ?>twitter_yellow.png"
+                            src="<?php echo IMAGES; ?>twitter.png"
                             style="vertical-align:middle;width:47px;height:48px;"></a></div>
             </div>
         </div>
@@ -121,7 +143,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                        src="<?php echo IMAGES; ?>bodas_2017.jpg"
+                        src="<?php echo IMAGES; ?>bodas.jpg"
                         style="vertical-align:middle;width:107px;height:106px;"></div>
             </div>
         </div>
@@ -227,21 +249,20 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                        src="<?php echo IMAGES; ?>boda_horizonte.jpg"
+                        src="<?php echo IMAGES; ?>boda_banner.jpg"
                         style="vertical-align:middle;width:569px;height:351px;"></div>
             </div>
         </div>
 
         <div id="wsb-element-3d1ff4af-df1b-45cc-a1aa-ae6e675d47bb" class="wsb-element-text" data-type="element">
-            <script type="text/javascript" src="https://cdn1.bodas.com.mx/js/wp-widget.js"></script>
-            <div id="wp-widget-reviews">
-                <div id="wp-widget-preview">
-                    Lee <a href="https://www.bodas.com.mx/video-para-bodas/feelmakers--e126529/opiniones">nuestras
-                        opiniones</a> en &nbsp; <a href='https://www.bodas.com.mx'><img
-                            src="https://cdn1.bodas.com.mx/assets/img/logos/gen_logoHeader-es_MX.png" height="25"></a>
-                </div>
-            </div>
-            <script>wpShowReviews('126529', 'black');</script>
+        <div>
+            <iframe sandbox="allow-same-origin allows-scripts"
+                src="https://www.zankyou.com.mx/iframe/reviews-widget/wervice/65885" frameborder="0" 
+                style="height: 800px;overflow: hidden;"></iframe>
+        </div>   
+            
+           
+            
         </div>
 
         <div id="wsb-element-00000000-0000-0000-0000-000705083570" class="wsb-element-facebook"

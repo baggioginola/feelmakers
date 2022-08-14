@@ -2227,7 +2227,7 @@ h6 {
 
 .footer-container {
     width: 1200px;
-    height: 415px;
+    height: 150px;
     background-color: #fff;
     left: 50%;
     margin-left: -600px
@@ -2257,7 +2257,7 @@ a[href^=tel] {
 }
 
 #wsb-canvas-template-page {
-    height: 2425px;
+    height: 2665px;
     margin: auto;
     width: 1200px;
     background-color: #e5e5e5;

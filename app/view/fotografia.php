@@ -41,16 +41,14 @@
 </script>
 
 <div id="wsb-canvas-template-page" class="wsb-canvas-page page"
-     style="height: 3120px;">
+     style="height: 3355px;">
     <div id="wsb-canvas-template-container" style="position: absolute;">
         <div id="wsb-element-3d1ff4af-df1b-45cc-a1aa-ae6e675d47bb" class="wsb-element-text" data-type="element" style="top: 2435px;">
-            <script type="text/javascript" src="https://cdn1.bodas.com.mx/js/wp-widget.js"></script>
-            <div id="wp-widget-reviews">
-                <div id="wp-widget-preview">
-                    Lee <a href="https://www.bodas.com.mx/video-para-bodas/feelmakers--e126529/opiniones">nuestras opiniones</a> en &nbsp; <a href='https://www.bodas.com.mx'><img src="https://cdn1.bodas.com.mx/assets/img/logos/gen_logoHeader-es_MX.png" height="25"></a>
-                </div>
-            </div>
-            <script>wpShowReviews('126529', 'black');</script>
+        <div>
+            <iframe sandbox="allow-same-origin allows-scripts"
+                src="https://www.zankyou.com.mx/iframe/reviews-widget/wervice/65885" frameborder="0" 
+                style="height: 800px;overflow: hidden;"></iframe>
+        </div>  
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000705071177" class="wsb-element-facebook"
              data-type="element">
@@ -70,11 +68,15 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000588967541" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special/5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/9.jpg" ></div>
                 </div>
             </div>
 
@@ -85,11 +87,18 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000588963151" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/dress/5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/10.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/11.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/12.jpg" ></div>
                 </div>
             </div>
 
@@ -119,7 +128,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img_main"><img
-                            src="<?php echo IMAGES; ?>fotografia/banner.png"
+                            src="<?php echo IMAGES; ?>fotografia/banner.jpg"
                             style="vertical-align:middle;width:1200px;height:800px;"></div>
             </div>
         </div>
@@ -196,16 +205,22 @@
              data-type="element">
             <div class="false customStyle ">
                 <div id="desktop-00000000-0000-0000-0000-000588699845" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/5.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/6.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/7.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/8.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/9.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/session/session2/10.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/10.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/11.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/12.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/13.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/14.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/15.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/16.jpg" ></div>
                 </div>
             </div>
 
@@ -215,22 +230,36 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000587763474" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/5.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/6.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/7.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/8.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/9.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/10.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/11.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/12.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/13.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/14.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/15.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding/wedding2/16.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/10.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/11.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/12.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/13.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/14.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/15.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/16.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/17.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/18.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/19.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/20.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/21.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/22.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/23.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/24.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/25.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/26.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/27.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/28.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/29.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/30.jpg" ></div>
                 </div>
             </div>
 
@@ -255,9 +284,11 @@
         <div id="wsb-element-acf1d392-e9a5-418b-9db9-8c7449c93837" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><img
-                            src="<?php echo IMAGES; ?>mywed.png"
-                            style="vertical-align:middle;width:155px;height:63px;"></div>
+                <div class="img">
+                    <a href="https://mywed.com/es/photographer/Feelmakers%C2%B0/">
+                        <img src="<?php echo IMAGES; ?>mywed.png" style="vertical-align:middle;width:155px;height:63px;">
+                    </a>
+                </div>
             </div>
         </div>
         <div id="wsb-element-9d05bd73-3e86-4e99-b992-b8ede394013d" class="wsb-element-image"
@@ -268,11 +299,27 @@
                             style="vertical-align:middle;width:186px;height:186px;"></div>
             </div>
         </div>
+        <div id="wsb-element-whatsapp" class="wsb-element-image"
+             data-type="element">
+            <div class="wsb-image-inner ">
+                <div class="img"><a href="https://api.whatsapp.com/send?phone=+522224553615&text=Hola!%20Quisiera%20mas%20informacion%20de%20sus%20servicios" target="_blank" rel=""><img
+                                src="<?php echo IMAGES; ?>whatsapp.png"
+                                style="vertical-align:middle;width:49px;height:50px;"></a></div>
+            </div>
+        </div>
+        <div id="wsb-element-instagram" class="wsb-element-image"
+             data-type="element">
+            <div class="wsb-image-inner ">
+                <div class="img"><a href="https://www.instagram.com/feelmakers.mx/" target="_blank" rel=""><img
+                                src="<?php echo IMAGES; ?>instagram_icono.png"
+                                style="vertical-align:middle;"></a></div>
+            </div>
+        </div>
         <div id="wsb-element-00000000-0000-0000-0000-000586848802" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><a href="https://www.facebook.com/FeelMakers.mx" target="_blank" rel=""><img
-                                src="<?php echo IMAGES; ?>facebook_yellow.png"
+                                src="<?php echo IMAGES; ?>facebook.png"
                                 style="vertical-align:middle;width:49px;height:50px;"></a></div>
             </div>
         </div>
@@ -280,7 +327,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><a href="https://twitter.com/FeelMakersMX" target="_blank" rel=""><img
-                                src="<?php echo IMAGES; ?>twitter_yellow.png"
+                                src="<?php echo IMAGES; ?>twitter.png"
                                 style="vertical-align:middle;width:47px;height:48px;"></a></div>
             </div>
         </div>
@@ -387,7 +434,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                            src="<?php echo IMAGES; ?>bodas_2017.jpg"
+                            src="<?php echo IMAGES; ?>bodas.jpg"
                             style="vertical-align:middle;width:107px;height:106px;"></div>
             </div>
         </div>
