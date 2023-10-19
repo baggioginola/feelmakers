@@ -135,7 +135,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                        src="<?php echo IMAGES; ?>ziwa.png"
+                        src="<?php echo IMAGES; ?>ziwa.jpg"
                         style="vertical-align:middle;width:186px;height:186px;"></div>
             </div>
         </div>
@@ -255,11 +255,11 @@
         </div>
 
         <div id="wsb-element-3d1ff4af-df1b-45cc-a1aa-ae6e675d47bb" class="wsb-element-text" data-type="element">
-        <div>
-            <iframe sandbox="allow-same-origin allows-scripts"
-                src="https://www.zankyou.com.mx/iframe/reviews-widget/wervice/65885" frameborder="0" 
-                style="height: 800px;overflow: hidden;"></iframe>
-        </div>   
+            <div>
+                <iframe sandbox="allow-same-origin allows-scripts"
+                    src="https://www.zankyou.com.mx/iframe/reviews-widget/wervice/65885" frameborder="0" 
+                    style="height: 800px;overflow: hidden;"></iframe>
+            </div>   
             
            
             
@@ -348,6 +348,13 @@
                 <h6 style="color: #8dbc4c; display: none;" id="mensaje_servidor">El mensaje fue enviado
                     correctamente</h6>
             </div>
+        </div>
+
+        <div style=" top: 1690px;left: 15px;position: absolute;z-index: 200;width: 325px;">
+            <a href="https://www.zankyou.com.mx/foto-video-bodas/puebla">
+                <img width="100" alt="GANADOR ZIWA 2022 MEXICO - Zankyou" 
+                src="https://asset1.zankyou.com/img/sections/badgets/ziwa-winners/badge-ziwa2022.png" />
+            </a>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000586848800" class="wsb-element-image"
              data-type="element">

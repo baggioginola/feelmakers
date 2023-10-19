@@ -25,34 +25,34 @@
 
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/1.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/2.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-2.jpg" alt="">    
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/3.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-3.jpg" alt=""> 
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/4.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-4.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/5.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-5.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/6.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-6.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/7.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-7.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/8.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-8.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/9.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-9.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/10.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-10.jpg" alt="">
                         </div>
                     </div>
 

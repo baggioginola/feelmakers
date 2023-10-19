@@ -25,43 +25,34 @@
 
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/1.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/2.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/3.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-3.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/4.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-4.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/5.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-5.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/6.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-6.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/7.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-7.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/8.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-8.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/9.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-9.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/10.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/11.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/12.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/13.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-10.jpg" alt="">
                         </div>
                     </div>
 
