@@ -106,6 +106,12 @@
 
             </div>
         </div>
+        <div style=" top: 1450px;left: 15px;position: absolute;z-index: 200;width: 325px;">
+            <a href="https://www.zankyou.com.mx/foto-video-bodas/puebla">
+                <img width="100" alt="GANADOR ZIWA 2022 MEXICO - Zankyou" 
+                src="https://asset1.zankyou.com/img/sections/badgets/ziwa-winners/badge-ziwa2022.png" />
+            </a>
+        </div>
         <div id="wsb-element-00000000-0000-0000-0000-000588809925" class="wsb-element-text" data-type="element">
             <div class="txt ">
                 <p style="text-align: center;"><span style="font-family:love ya like a sister;"><span
@@ -242,7 +248,7 @@
         </div>
         <div id="wsb-element-9d05bd73-3e86-4e99-b992-b8ede394013d" class="wsb-element-image" data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><img src="<?php echo IMAGES; ?>ziwa.png"
+                <div class="img"><img src="<?php echo IMAGES; ?>ziwa.jpg"
                         style="vertical-align:middle;width:186px;height:186px;"></div>
             </div>
         </div>
