@@ -1,9 +1,9 @@
-<span class="anchor" id="specialbooth"></span>
+<span class="anchor" id="life"></span>
 <div class="container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <h1>SPECIALBOOTH</h1>
+                <h1>LIFE</h1>
 
                 <p>
                     El set de las imágenes más divertidas de tu Boda y/o un original video en slow motion para que
@@ -16,25 +16,49 @@
 
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/1.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/2.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/3.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-3.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/4.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-4.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/5.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-5.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/6.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-6.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/special_booth/7.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-7.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-8.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-9.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-10.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-11.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-12.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-13.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-14.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo IMAGES; ?>fotografia/life/Life-15.jpg" alt="">
                         </div>
                     </div>
 

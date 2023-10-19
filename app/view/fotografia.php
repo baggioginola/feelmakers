@@ -50,6 +50,12 @@
                 style="height: 800px;overflow: hidden;"></iframe>
         </div>  
         </div>
+        <div style=" top: 2385px;left: 15px;position: absolute;z-index: 200;width: 325px;">
+            <a href="https://www.zankyou.com.mx/foto-video-bodas/puebla">
+                <img width="100" alt="GANADOR ZIWA 2022 MEXICO - Zankyou" 
+                src="https://asset1.zankyou.com/img/sections/badgets/ziwa-winners/badge-ziwa2022.png" />
+            </a>
+        </div>
         <div id="wsb-element-00000000-0000-0000-0000-000705071177" class="wsb-element-facebook"
              data-type="element">
             <div id="fb-container-00000000-0000-0000-0000-000705071177" class="wsb-social-facebook ">
@@ -68,15 +74,21 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000588967541" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/5.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/6.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/7.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/8.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/special_booth/9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-10.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-11.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-12.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-13.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-14.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/life/Life-15.jpg" ></div>
                 </div>
             </div>
 
@@ -87,18 +99,26 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000588963151" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/5.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/6.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/7.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/8.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/9.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/10.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/11.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/12.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-10.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-11.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-12.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-13.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-14.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-15.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-16.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-17.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-18.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-19.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/trash_dress/TTD-20.jpg" ></div>
                 </div>
             </div>
 
@@ -205,22 +225,16 @@
              data-type="element">
             <div class="false customStyle ">
                 <div id="desktop-00000000-0000-0000-0000-000588699845" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/5.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/6.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/7.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/8.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/9.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/10.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/11.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/12.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/13.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/14.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/15.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/16.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/feel_session/Feelsession-10.jpg" ></div>
                 </div>
             </div>
 
@@ -230,36 +244,37 @@
              data-type="element">
             <div class="false ">
                 <div id="desktop-00000000-0000-0000-0000-000587763474" class="wsb-media-gallery">
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/1.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/2.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/3.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/4.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/5.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/6.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/7.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/8.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/9.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/10.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/11.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/12.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/13.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/14.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/15.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/16.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/17.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/18.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/19.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/20.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/21.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/22.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/23.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/24.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/25.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/26.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/27.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/28.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/29.jpg" ></div>
-                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/30.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-1.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-2.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-3.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-4.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-5.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-6.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-7.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-8.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-9.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-10.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-11.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-12.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-13.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-14.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-15.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-16.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-17.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-18.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-19.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-20.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-21.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-22.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-23.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-24.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-25.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-26.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-27.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-28.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-29.jpg" ></div>
+                    <div data-src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-30.jpg" ></div>
+                    
                 </div>
             </div>
 
@@ -295,7 +310,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                            src="<?php echo IMAGES; ?>ziwa.png"
+                            src="<?php echo IMAGES; ?>ziwa.jpg"
                             style="vertical-align:middle;width:186px;height:186px;"></div>
             </div>
         </div>
@@ -487,7 +502,7 @@
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000588754489" class="wsb-element-text" data-type="element">
             <div class="txt "><h2 style="text-align: center;"><span
-                            style="font-size: 36px; line-height: 43.2000007629395px;">Specialbooth</span></h2>
+                            style="font-size: 36px; line-height: 43.2000007629395px;">Life</span></h2>
             </div>
         </div>
         <div id="wsb-element-00000000-0000-0000-0000-000587680623" class="wsb-element-text" data-type="element">

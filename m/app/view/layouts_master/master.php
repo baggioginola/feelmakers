@@ -49,7 +49,7 @@
                 <li><a href="<?php echo DOMAIN; ?>#feel-session">FEEL SESSION</a></li>
                 <li><a href="<?php echo DOMAIN; ?>#wedding-day">WEDDING DAY</a></li>
                 <li><a href="<?php echo DOMAIN; ?>#trash-the-dress">TRASH THE DRESS</a></li>
-                <li><a href="<?php echo DOMAIN; ?>#specialbooth">SPECIALBOOTH</a></li>
+                <li><a href="<?php echo DOMAIN; ?>#life">LIFE</a></li>
                 <li><a href="<?php echo DOMAIN; ?>#recomendaciones">RECOMENDACIONES</a></li>
                 <li><a href="<?php echo DOMAIN; ?>#acerca">NUESTRO EQUIPO</a></li>
                 <li><a href="<?php echo DOMAIN; ?>#contacto">CONTACTO</a></li>

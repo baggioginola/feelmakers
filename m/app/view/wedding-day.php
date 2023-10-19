@@ -24,82 +24,64 @@
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/1.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/2.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/3.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-3.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/4.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-4.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/5.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-5.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/6.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-6.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/7.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-7.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/8.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-8.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/9.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-9.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/10.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-10.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/11.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-11.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/12.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-12.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/13.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-13.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/14.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-14.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/15.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-15.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/16.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-16.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/17.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-17.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/18.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-18.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/19.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-19.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/20.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/21.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/22.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/23.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/24.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/25.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/26.jpg" alt="">
+                            <img src="<?php echo IMAGES; ?>fotografia/wedding_day/Wedding day-20.jpg" alt="">
                         </div>
                     </div>
 
