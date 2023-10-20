@@ -6,8 +6,7 @@
                 <h1>LIFE</h1>
 
                 <p>
-                    El set de las imágenes más divertidas de tu Boda y/o un original video en slow motion para que
-                    disfrutes las expresiones, momentos y demás locuras que hagan tus invitados
+                Documentamos los diferentes momentos de la vida y las familias
                 </p>
             </div>
 

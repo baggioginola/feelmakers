@@ -19,7 +19,7 @@
                         <pre style="text-align: center;" class="editor_copyright"><span style="font-size:14px;">Copyright&nbsp;© FeelMakers Wedding Cinematography&nbsp;by <a
                                     href="http://www.vmedia.mx"
                                     target="_blank">V Media Comunicación</a></span></pre>
-                <p style="text-align: center;" class="editor_copyright"><span style="font-size:14px;">​+01 222 704 91 09 &nbsp; &nbsp;&nbsp;+52 22 24 553 615 &nbsp; &nbsp; &nbsp;<a
+                <p style="text-align: center;" class="editor_copyright"><span style="font-size:14px;">+52 22 24 553 615 &nbsp; &nbsp; &nbsp;<a
                             href="mailto:contacto@feelmakers.mx" target="_blank">contacto@feelmakers.mx</a></span><br>
                 </p>
 

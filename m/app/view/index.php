@@ -31,7 +31,7 @@
                 </div>
 
                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                    <a href="https://www.instagram.com/feelmakers.mx/">
+                    <a href="https://www.instagram.com/feelmakers.video.photo/">
                         <img src="<?php echo IMAGES; ?>instagram_icono.png" width="35" height="35">
                     </a>
                 </div>
@@ -41,11 +41,7 @@
                         <img src="<?php echo IMAGES; ?>facebook.png" width="35" height="35">
                     </a>
                 </div>
-                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                    <a href="https://twitter.com/FeelMakersMX">
-                        <img src="<?php echo IMAGES; ?>twitter.png" width="35" height="35">
-                    </a>
-                </div>
+                
                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                     <a href="https://vimeo.com/feelmakers">
                         <img src="<?php echo IMAGES; ?>vimeo.png" width="35" height="35">

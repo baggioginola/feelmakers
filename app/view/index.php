@@ -87,7 +87,7 @@
         <div id="wsb-element-instagram" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><a href="https://www.instagram.com/feelmakers.mx/" target="_blank" rel=""><img
+                <div class="img"><a href="https://www.instagram.com/feelmakers.video.photo/" target="_blank" rel=""><img
                                 src="<?php echo IMAGES; ?>instagram_icono.png"
                                 style="vertical-align:middle;"></a></div>
             </div>
@@ -101,14 +101,7 @@
                             style="vertical-align:middle;width:49px;height:50px;"></a></div>
             </div>
         </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000586848801" class="wsb-element-image"
-             data-type="element">
-            <div class="wsb-image-inner ">
-                <div class="img"><a href="https://twitter.com/FeelMakersMX" target="_blank" rel=""><img
-                            src="<?php echo IMAGES; ?>twitter.png"
-                            style="vertical-align:middle;width:47px;height:48px;"></a></div>
-            </div>
-        </div>
+        
         <div id="wsb-element-00000000-0000-0000-0000-000588943824" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">
@@ -135,7 +128,7 @@
              data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><img
-                        src="<?php echo IMAGES; ?>ziwa.jpg"
+                        src="<?php echo IMAGES; ?>ziwa.png"
                         style="vertical-align:middle;width:186px;height:186px;"></div>
             </div>
         </div>
@@ -205,46 +198,7 @@
             <div class="txt "><h2 style="text-align: center;"><span style="font-size:36px;">"Revivir un sentimiento hace que los momentos no sean fugaces"</span>
                 </h2></div>
         </div>
-        <div id="wsb-element-f788e20b-56ee-4023-876a-bd20a67fc8b8" class="wsb-element-image"
-             data-type="element">
-            <div class="wsb-image-inner ">
-                <div class="img"><img
-                        src="<?php echo IMAGES; ?>paypal.png"
-                        style="vertical-align:middle;width:154px;height:41px;"></div>
-            </div>
-        </div>
-        <div id="wsb-element-b98e57e2-1232-478e-8ed4-e6361c70a15e" class="wsb-element-text" data-type="element">
-            <div class="txt "><h2 style="text-align: right;"><span
-                        style="font-size:24px;">Contrata con</span><br></h2></div>
-        </div>
-        <div id="wsb-element-876e04d7-d6d9-4124-8e46-3920d15a32f2" class="wsb-element-paypal"
-             data-type="element">
-            <div style="text-align: center;">
-                <div style="display: inline-block; padding: 4px; vertical-align: top;">
-                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input
-                            type="hidden" name="cmd" value="_xclick"><input type="hidden"
-                                                                            name="currency_code"
-                                                                            value="MXN"><input type="hidden"
-                                                                                               name="business"
-                                                                                               value="g.papaqui@hotmail.com"><input
-                            type="hidden" name="item_name" value="Contrataci&#243;n"><input type="hidden"
-                                                                                            name="item_number"
-                                                                                            value="Anticipo de Contrataci&#243;n"><input
-                            type="hidden" name="amount" value="2000.00"><input type="hidden"
-                                                                               name="button_subtype"
-                                                                               value="services"><input
-                            type="hidden" name="shipping"><input type="image"
-                                                                 src="//www.paypalobjects.com/es_XC/i/btn/btn_buynowCC_LG.gif"
-                                                                 border="0" name="submit"
-                                                                 alt="PayPal - &#161;La manera m&#225;s f&#225;cil y segura de pagar en l&#237;nea!"><input
-                            type="hidden" name="bn" value="godaddy_hosting_WPS_US"><img alt=""
-                                                                                        style="border-width: 0"
-                                                                                        src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-                                                                                        width="1"
-                                                                                        height="1"></form>
-                </div>
-            </div>
-        </div>
+        
         <div id="wsb-element-65b91425-e924-41f7-b336-b5092b3a11d3" class="wsb-element-image"
              data-type="element">
             <div class="wsb-image-inner ">

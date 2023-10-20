@@ -10,23 +10,7 @@
                 </div>
             </div>
         </div>
-        <div id="wsb-element-817b4ee1-ebe7-405c-8e06-4488976a202d" class="wsb-element-paypal" data-type="element">
-            <div style="text-align: center;">
-                <div style="display: inline-block; padding: 4px; vertical-align: top;">
-                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input
-                            type="hidden" name="cmd" value="_xclick"><input type="hidden" name="currency_code"
-                            value="MXN"><input type="hidden" name="business" value="g.papaqui@hotmail.com"><input
-                            type="hidden" name="item_name" value="Contrataci&#243;n"><input type="hidden"
-                            name="item_number" value="Anticipo de Contrataci&#243;n"><input type="hidden" name="amount"
-                            value="2000.00"><input type="hidden" name="button_subtype" value="services"><input
-                            type="hidden" name="shipping"><input type="image"
-                            src="//www.paypalobjects.com/es_XC/i/btn/btn_buynowCC_LG.gif" border="0" name="submit"
-                            alt="PayPal - &#161;La manera m&#225;s f&#225;cil y segura de pagar en l&#237;nea!"><input
-                            type="hidden" name="bn" value="godaddy_hosting_WPS_US"><img alt="" style="border-width: 0"
-                            src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
-                </div>
-            </div>
-        </div>
+        
         <div id="wsb-element-3d1ff4af-df1b-45cc-a1aa-ae6e675d47bb" class="wsb-element-text" data-type="element"
             style="top: 1500px;">
             <div>
@@ -174,11 +158,7 @@
                 <h2 style="text-align: center;"><span style="font-size:36px;">¿Por qué elegirnos?</span></h2>
             </div>
         </div>
-        <div id="wsb-element-b6487e4d-3ffd-4c69-9b33-daee0e3da3d9" class="wsb-element-text" data-type="element">
-            <div class="txt ">
-                <h2 style="text-align: right;"><span style="font-size:24px;">Contrata con</span><br></h2>
-            </div>
-        </div>
+        
         <div id="wsb-element-00000000-0000-0000-0000-000650271092" class="wsb-element-navigation" data-type="element">
             <div style="width: 600px; height: 40px;"
                 class="wsb-nav nav_theme nav-text-center nav-horizontal nav-btn-stretch wsb-navigation-rendered-top-level-container"
@@ -221,7 +201,7 @@
         </div>
         <div id="wsb-element-instagram" class="wsb-element-image" data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><a href="https://www.instagram.com/feelmakers.mx/" target="_blank" rel=""><img
+                <div class="img"><a href="https://www.instagram.com/feelmakers.video.photo/" target="_blank" rel=""><img
                             src="<?php echo IMAGES; ?>instagram_icono.png"
                             style="vertical-align:middle;"></a></div>
             </div>
@@ -240,15 +220,10 @@
                             style="vertical-align:middle;width:49px;height:49px;"></a></div>
             </div>
         </div>
-        <div id="wsb-element-8d8e1eca-6423-4f46-beeb-5980287a772e" class="wsb-element-image" data-type="element">
-            <div class="wsb-image-inner ">
-                <div class="img"><img src="<?php echo IMAGES; ?>paypal.png"
-                        style="vertical-align:middle;width:154px;height:41px;"></div>
-            </div>
-        </div>
+        
         <div id="wsb-element-9d05bd73-3e86-4e99-b992-b8ede394013d" class="wsb-element-image" data-type="element">
             <div class="wsb-image-inner ">
-                <div class="img"><img src="<?php echo IMAGES; ?>ziwa.jpg"
+                <div class="img"><img src="<?php echo IMAGES; ?>ziwa.png"
                         style="vertical-align:middle;width:186px;height:186px;"></div>
             </div>
         </div>
@@ -258,13 +233,7 @@
                         style="vertical-align:middle;width:107px;height:106px;"></div>
             </div>
         </div>
-        <div id="wsb-element-00000000-0000-0000-0000-000586848801" class="wsb-element-image" data-type="element">
-            <div class="wsb-image-inner ">
-                <div class="img"><a href="https://twitter.com/FeelMakersMX" target="_blank" rel=""><img
-                            src="<?php echo IMAGES; ?>twitter.png"
-                            style="vertical-align:middle;width:47px;height:48px;"></a></div>
-            </div>
-        </div>
+        
         <div id="wsb-element-00000000-0000-0000-0000-000586370727" class="wsb-element-image" data-type="element">
             <div class="wsb-image-inner ">
                 <div class="img"><a href="<?php echo DOMAIN; ?>" rel=""><img src="<?php echo IMAGES; ?>logo.png"
